@@ -1,2 +1,2 @@
 # Estudos HTML CSS
- Estudos e boas praticas em HTML e CSS
+ Estudos e boas praticas em HTML5 e CSS3
