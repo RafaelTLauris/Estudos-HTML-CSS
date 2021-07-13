@@ -4,36 +4,88 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outras Formatações</title>
+    <title>Listas</title>
 </head>
 <body>
-    <h1>Outras Formatações</h1>
-    <h2>Código-fonte / Pré-formatado</h2>
-    <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript.</p>
+    <h1>Trabalhando com Listas</h1>
+    <h2>Listas Ordenadas</h2>
+    <ol type="1">  <!--  "Type" é o tipo da numeração da lista  /  "Start" é em q número a lista começa contar  -->
+        <li>acordar</li>
+        <li>tomar café</li>
+        <li>escovar os dentes</li>
+        <li>arrumar o quarto</li>
+        <li>trabalhar</li>
+    </ol>
 
-    <pre>
-        <code>
-            console.log('vai começar')
-        for(var c = 1; c <= 6; c++){
-            console.log(c)
-        }
-        console.log('fim')
-        </code>
-    </pre>
+    <h2>Lista Não Ordenadas</h2>
+    <ul type="disc"> <!-- Tipos = disc, circle, square.     (disc é o padrão)-->
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Bolo</li>
+        <li>Mistura</li>
+    </ul>
 
-    <h2>Citações</h2>
-    <p>Como diria um pai de um amigo <q>o computador é um cara burro muito rápido</q></p>
+    <h2>Minhas linguagens favoritas</h2>
+    <ol>
+        <li>Antigas</li>
+        <ol type="a">
+            <li>C++</li>
+            <li>C#</li>
+            <li>Kotlin</li>
+        </ol>
+        <li>Novas</li>
+        <ol type="a">
+            <li>JavaScript</li>
+        </ol>
+    </ol>
 
-    <h2>Citações completas</h2>
-    <p>Segundo Maurício Samy Silva, no seu livro Fundamentos de HTML5 e CSS3:</p>
-    <blockquote cite="https://www.google.com.br/books/edition/Fundamentos_de_HTML5_e_CSS3/2iPYCQAAQBAJ?hl=pt-BR&gbpv=1&dq=HTML&printsec=frontcover">
-        CSS é a abreviação para o termo em inglês <em>Cascading Style Sheet</em>, traduzido para o português como folha de estilo em casacata.
-    </blockquote>
+    <h2>Meus jogos Favoritos</h2>
+    <ol>
+        <li>PS2</li>
+        <ul>
+            <li>Call of Duty</li>
+            <li>GTA SA</li>
+            <li>God of War</li>
+            <li>PES</li>
+        </ul>
+        <li>XBOX 360</li>
+        <ul>
+            <li>Call of Duty</li>
+            <ul>
+                <li>Word at War</li>
+                <li>CoD 4</li>
+                <li>Modern Warfare</li>
+                <li>Black Ops</li>
+            </ul>
+            <li>Battlefield</li>
+            <ul>
+                <li>Bad Company</li>
+                <li>1942</li>
+                <li>BF3</li>
+                <li>Hardline</li>
+                <li>BF4</li>
+            </ul>
+            <li>GTA</li>
+            <ul>
+                <li>SA</li>
+                <li>GTA IV</li>
+                <li>GTA V</li>
+            </ul>
+        </ul>
+    </ol>
 
-    <h2>Abreviações</h2>
-    <p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheet">CSS</abbr></p>
+    <h2>Lista de Definições</h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação para criação de conteúdo</dd>
 
-    <h2>Texto invertido</h2>
-    <p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo></p>
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para a criação do desing de um site.</dd>
+        
+        <dt>JavaScript</dt>
+        <dd>Linguagem de Programação para a criação de interatividade com o site.</dd>
+    </dl>
 </body>
 </html>
+
+<!--  DICA: Para modificar várias linhas ao mesmo tempo com o mesmo conteúdo, Segurar a tecla Alt + Click na linha.  -->
