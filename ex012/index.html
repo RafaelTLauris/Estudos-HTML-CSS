@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>este vídeo está hospedado no meu computador</p>
+    <video src="midias/videoL.mp4" width="700" poster="midias/foto-m.png" controls></video>
+    <video src="midias/video.mp4" width="700" controls></video>
+
+    <!--                    OUTRA FORMA DE COLOCAR VÍDEO
+    <video width="700" poster="midias/foto-m.png" controls>
+
+        <source src="midias/video.mp4" type="video/mp4">
+        <source src="midias/videoL.mp4" type="video/mp4">
+
+    </video>
+    -->
+
+    <h1>Inserindo vídeos do YouTube</h1>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eF9Qoc6p_4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
+
+<!-- 
+
+        TOMAR CUIDADO COM O FORMATO DO VÍDEO, PQ NEM TODOS OS NAVEGADORES ACEITAM TODOS OS FORMATOS DE VÍDEO!
+
+
+        poster="" coloca uma thumbnail no vídeo colocado!
+
+
+        COLOCANDO VÍDEOS NO YOUTUBE NO SEU SITE - no vídeo do youtube clicar em compartilhar e selecionar "Vídeo incorporado", desta forma ele já gera o código HTML para colocar no seu site.
+
+-->
