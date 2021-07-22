@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+
+    <style>
+
+/* 
+    SAFE FONT = 3 FONTES ONDE SE NÃO ACHAR UMA TEM MAIS OUTRAS OPÇÕES PARA USAR
+    
+    WEB SAFE FONT = https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+*/
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            
+            /*
+            Medidas Absolutas
+            cm, mm, in, px, pt, pc
+            
+            
+            Medidas Relativas
+            em, ex, rem, vw, vh, %
+
+            16px geralmente é = 1em
+            */
+
+            font-size: 16px; /* 16px é o tamanho padrão da fonte */
+
+            /* lighter normal bold bolder*/
+        }
+
+        h1{
+            /* 
+                shorthand font
+                - font-style -> font-weight -> font-size -> font-family
+            
+                font-family: 'Work Sans' , sans-serif;
+                font-weight: bolder;
+                font-size: 3em;
+                font-style: italic;
+            
+            */
+            font: italic bolder 3em 'Work Sans' , sans-serif;
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>Trabalhando com fontes</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero accusantium eveniet non ab. Magnam aperiam natus accusamus dolor obcaecati recusandae ipsa incidunt qui. Ipsa nihil blanditiis distinctio id dolor? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi deserunt rem nostrum quos necessitatibus soluta, unde ex culpa sunt, delectus, earum laudantium placeat eveniet est quisquam incidunt iste repellendus fugiat!</p>
+
+    <h2>Subtítulo do exercício</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus, facilis dicta? Facere ratione harum nulla ipsum dolores voluptatem atque sequi quae! Minima molestiae quo vero porro debitis tenetur praesentium deserunt!</p>
+</body>
+</html>
