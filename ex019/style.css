@@ -2,8 +2,8 @@
 
 /*
 
-    em HTML é "id" = no CSS é "#"
-    em HTML é "class" = no CSS é "."
+    em HTML é "id" = no CSS é "#" (só pode um elemento).
+    em HTML é "class" = no CSS é "." (pode vários elementos).
 
 */
 
@@ -24,3 +24,19 @@ h1#principal{
     background-color: green;
     color: white;
 }
+
+.basico{
+    color: blueviolet;
+}
+.intermediario{
+    color: brown;
+}
+.avancado{
+    color: darkorange;
+}
+.destaque{
+    background-color: darkgrey;
+    color: black;
+}
+
+/* Id sobrepõem as personalizações em class */
