@@ -1,0 +1,29 @@
+ REFERENCIAS PARA ESTUDOS COM HTML5 E CSS3:
+
+ * MDN ( Mozilla Developer Network )
+
+ - https://developer.mozilla.org/pt-BR/
+
+
+
+ * W3C Standards ( World Wide Web Consortium )
+
+ - https://www.w3.org/standards/webdesign/
+
+
+
+
+ * WHATWG Living Standard ( Web Hypertext Application Technology Working Group )
+
+ - https://html.spec.whatwg.org/
+
+
+
+
+ * W3Schools ( Refsnes Data )
+
+ - https://www.w3schools.com/
+
+ 
+
+
