@@ -21,8 +21,7 @@ Módulo 1 -
 - Semântica na HTML5.
 - Negrito e Itálico.
 - Formatações adicionais em HTML.
-
-- 
+- ...
 
 
 
