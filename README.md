@@ -1,8 +1,5 @@
 # Estudos HTML5 CSS3
-
-    Este repositório público contém o material básico e informações com o propósito de armazenar, ensinar, boas práticas e todos os conhecimentos sobre a tecnologia HTML5 & CSS3 até os dias de hoje.
-
-    Todo o conteúdo será organizado por tópicos de forma didática para fácil entendimento do usuário. O conteúdo será organizado desta forma:
+Este repositório público contém o material básico e informações com o propósito de armazenar, ensinar, boas práticas e todos os conhecimentos sobre a tecnologia HTML5 & CSS3 até os dias de hoje. Todo o conteúdo será organizado por tópicos de forma didática para fácil entendimento do usuário. O conteúdo será organizado desta forma:
 
 ## Parte I
 * História da Internet, surgimento e evolução até os dias de hoje de forma detalhada.
