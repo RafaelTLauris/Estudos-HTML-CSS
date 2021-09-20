@@ -9,98 +9,102 @@ Livros para estudar HTML5 e CSS3
 - HTML5
 ~ Mark Pilgrim
 * O'Reilly
-
+(https://www.amazon.com.br/HTML5-Running-Future-Development-English-ebook/dp/B0043D2E0E/ref=sr_1_5?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML5&qid=1632160814&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
 
 - CSS
 ~ Eric Meyer
 * O'Reilly
-
+(https://www.amazon.com.br/CSS-Definitive-Visual-Presentation-English-ebook/dp/B076HZSWTM/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=Eric+Meyer&qid=1632161122&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
 
 - Flexbox in CSS
 ~ Estelle Weyl
 * O'Reilly
-
+(https://www.amazon.com.br/Flexbox-CSS-English-Estelle-Weyl-ebook/dp/B072JHT5L4/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=Estelle+Weyl&qid=1632161141&s=books&sr=1-2)
 
 - Grid Layout in CSS
 ~ Eric Meyer
 * O'Reilly
-
+(https://www.amazon.com.br/Grid-Layout-CSS-Interface-English-ebook/dp/B01EGQ1QI8/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=Grid+Layout+in+CSS&qid=1632161190&s=books&sr=1-1)
 
 - HTML5 e CSS3
 ~ Elizabeth Castro e Bruce Hyslop
 * Alta Books
-
+(https://www.amazon.com.br/Html-CSS-guia-prático-visual/dp/8576088037/ref=sr_1_6?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML5&qid=1632160814&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 
 - HTML & CSS
 ~ Jon Duckett
 * Alta Books
+(https://www.amazon.com.br/HTML-CSS-projete-construa-Websites/dp/8576089394/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML5&qid=1632160814&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
 
 
 - Use a Cabela! HTML & CSS
 ~ Elisabeth Robson e Eric Freeman
 * Alta Books
-
+(https://www.amazon.com.br/Use-cabeça-HTML-Elisabeth-Freeman/dp/8576088622/ref=pd_sbs_5/147-0211154-5882226?pd_rd_w=gQqa5&pf_rd_p=a94e71ea-33bb-431c-ad4f-11f4e2decc0b&pf_rd_r=434ENCXEETEHQCT2TYC9&pd_rd_r=ac319b74-9020-448e-a002-196fd4dd56e2&pd_rd_wg=GPfee&pd_rd_i=8576088622&psc=1)
 
 - Crie seu próprio site
 ~ Nate Cooper e Kim Gee
 * Novatec
-
+(https://www.amazon.com.br/Crie-Pr%C3%B3prio-Site-Nate-Cooper/dp/8575224107/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crie+seu+pr%C3%B3prio+site&qid=1632161221&s=books&sr=1-1)
 
 - HTML5 a linguagem de marcação que revolucionou a web
 ~ Mauricio Samy Silva
 * Novatec
-
+(https://www.amazon.com.br/HTML5-linguagem-marcação-que-revolucionou-ebook/dp/B081HVSQPN/ref=sr_1_3?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML5&qid=1632160814&s=books&sr=1-3)
 
 - CSS3
 ~ Mauricio Samy Silva
 * Novatec
-
+(https://www.amazon.com.br/CSS3-Desenvolva-aplica%C3%A7%C3%B5es-profissionais-estiliza%C3%A7%C3%A3o-ebook/dp/B081NSDCMY/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=CSS3&qid=1632161242&s=books&sr=1-1)
 
 - Fundamentos de HTML5 e CSS3
 ~ Mauricio Samy Silva
 * Novatec
-
+(https://www.amazon.com.br/Fundamentos-Html5-Css3-Maurício-Silva/dp/8575224387/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML5&qid=1632160814&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 
 - CSS Grid Layout
 ~ Mauricio Samy Silva
 * Novatec
-
+(https://www.amazon.com.br/Grid-Layout-Criando-Layouts-Profissionais/dp/8575226320/ref=pd_sbs_3/147-0211154-5882226?pd_rd_w=gQqa5&pf_rd_p=a94e71ea-33bb-431c-ad4f-11f4e2decc0b&pf_rd_r=434ENCXEETEHQCT2TYC9&pd_rd_r=ac319b74-9020-448e-a002-196fd4dd56e2&pd_rd_wg=GPfee&pd_rd_i=8575226320&psc=1)
 
 - Curso de design gráfico
 ~ DAvid Dabner e outros
 * GG
-
+(https://www.amazon.com.br/Curso-design-gr%C3%A1fico-edi%C3%A7%C3%A3o-Princ%C3%ADpios/dp/8584521461/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Curso+de+design+gr%C3%A1fico&qid=1632161269&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
 
 - Design
 ~ Bob e Maggie Gordon
 * Senac
-
+(https://www.amazon.com.br/Essencial-do-Design-Gr%C3%A1fico/dp/8539607603/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Bob+e+Maggie+Gordon&qid=1632161315&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
 
 - A psicologia das cores
 ~ Eva Heller
 * GG
-
+(https://www.amazon.com.br/psicologia-das-cores-afetam-emo%C3%A7%C3%A3o/dp/658828005X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=A+psicologia+das+cores&qid=1632161340&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
 
 - Pensar com Tipos
 ~ Ellen Lupton
 * GG
-
+(https://www.amazon.com.br/Pensar-com-tipos-escritores-estudantes/dp/6588280076/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Pensar+com+Tipos&qid=1632161365&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
 
 - Flexbox Explained
 ~ Jorge Montoya e Stephen Burge
 * OSTRaining
-(Livro apenas na versão digital)
+[Livro apenas na versão digital]
+(https://www.amazon.com.br/Flexbox-Explained-Step-Step-English-ebook/dp/B07V5JN7GX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Flexbox+Explained&qid=1632161393&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 
 - Css Grid Explained
 ~ Jorge Montoya e Stephen Burge
 * OSTRaining
-(Livro apenas na versão digital)
+[Livro apenas na versão digital]
+(https://www.amazon.com.br/CSS-Grid-Explained-Step-Step-ebook/dp/B07K2FDP7S/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Css+Grid+Explained&qid=1632161434&s=books&sr=1-1)
 
 - Smashing HTML5
 ~ Bill Sanders
 * Bookman
-
+(https://www.amazon.com.br/Smashing-HTML5-T%C3%A9cnicas-para-Gera%C3%A7%C3%A3o/dp/8577809609/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Smashing+HTML5&qid=1632161456&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
 
 - Smashing CSS
 ~ Eric Meyer
 * Bookman
+(https://www.amazon.com.br/Smashing-CSS-Professional-Techniques-Modern/dp/047068416X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Smashing+CSS&qid=1632161491&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b)
