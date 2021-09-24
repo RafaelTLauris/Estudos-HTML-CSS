@@ -1,0 +1,79 @@
+___HISTÓRIA DA INTERNET___
+
+Tudo começou durante a Guerra fria no ano de 1969 quando a URSS (União Soviética) lançou o primeiro satélite artificial chamado "Sputnik" que só tinha uma função, dar voltadas no planeta 
+e cair na água, enquanto ele estava contornando o planeta ele emitia sinais para que a URSS pudesse capturá-los. Mas os EUA não sabiam a real função do Sputnik, e esse medo fez o 
+presidente militar dos EUA na época, Dwight Eisenhower fundar um órgão de estudos de tecnologias para guerra chamada DARPA (Defense Advanced Research Projects Agency, 
+ou Agência de Projetos de Pesquisa Avançada de Defesa, em português).
+
+E ainda em 1969, nos Estados Unidos a DARPA criou a internet e era chamada de Arpanet, que tinha como função interligar laboratórios de pesquisa. Naquele ano, um professor da 
+Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história.
+
+Essa rede pertencia ao Departamento de Defesa norte-americano. O mundo vivia o auge da Guerra Fria. A Arpanet era uma garantia de que a comunicação entre militares e cientistas 
+persistiria, mesmo em caso de bombardeio. Eram pontos que funcionavam independentemente de um deles apresentar problemas.
+
+Em 1970, a ARPANET estava consolidada com centenas de computadores conectados. S. Crocker e sua equipe do Network Working Group estabeleceram o protocolo de controle 
+chamado Network Control Protocol (NCP), que permitia o desenvolvimento de aplicativos a partir dos computadores conectados à ARPANET.
+Foi assim que, em 1972, Ray Tomlinson criou o software básico de e-mail, que se tornou o aplicativo mais importante da década e mudou a natureza da comunicação e colaboração 
+entre as pessoas. Seu impacto foi tão grande que a ARPANET se afastou gradativamente do uso militar, aproximando-se do uso científico na disseminação de informações. 
+Por esse motivo, em 1974, mais de 50 universidades americanas estavam conectadas à ARPANET.
+
+Apesar de seu sucesso, o protocolo NCP não era suficiente para se comunicar com redes ou máquinas fora da ARPANET, como redes de pacotes por rádio ou satélite. Por isso, 
+em 1974 Robert Kahn e Vinton Cerf desenvolveram uma nova versão do protocolo que respondia a um ambiente de rede de arquitetura aberta. Esse novo protocolo foi chamado de TCP/IP.
+O protocolo TCP/IP, mais do que agir como um controlador, facilitava a comunicação entre redes sem a necessidade de que estas fizessem alterações em sua interface. 
+Além disso, garantia que nenhum pacote de informações fosse perdido e verificava se eles chegavam na ordem em que haviam sido enviados.No início dos anos 80, 
+mais precisamente em 1983, a ARPANET mudou o protocolo NCP para o novo TCP/IP. O IP havia se tornado o serviço portador da Infraestrutura de Informação Global.
+
+A partir de 1982, o uso da Arpanet tornou-se maior no âmbito acadêmico. Inicialmente, o uso era restrito aos EUA, mas se expandiu para outros países, como Holanda, Dinamarca e Suécia. 
+Desde então, começou a ser utilizado o nome internet.
+
+Em 1985, a Internet já estava consolidada como a principal rede de comunicação com alcance global.
+
+Por quase duas décadas, apenas os meios acadêmico e científico tiveram acesso à rede. Em 1987, pela primeira vez foi liberado seu uso comercial nos EUA.
+
+Mas o avanço não parou por aí. Em 1989, Tim Berners-Lee desenvolveu aWorld Wide Webpara facilitar o trabalho colaborativo no CERN.
+Basicamente, a WWW funciona como um sistema de distribuição de documentos de hipertexto (HTTP) interconectados e acessíveis por meio de um navegador web conectado à Internet.
+O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi 
+tão rápida que em 1997 havia mais de 200 mil sites.
+
+Desde então, a difusão da rede foi enorme. Hoje, a internet tem mais de 250 milhões de usuários em todo o mundo. Até o final de 2004, o tráfego mundial de e-mails deverá estar em torno 
+de 35 bilhões de mensagens diárias.
+
+Quase 90% dos usuários de internet estão nos países industrializados. Os EUA e o Canadá respondem por 57% do total, segundo relatório da Organização Internacional do Trabalho.
+
+No Brasil, a exploração comercial foi liberada em 1995. Universidades como as federais do Rio Grande do Sul e do Rio de Janeiro estavam conectadas à rede desde 1989. A Fapesp 
+(Fundação de Amparo à Pesquisa de São Paulo) conectou-se um ano depois.
+
+A Internet mudou radicalmente desde a sua origem. Já não se trata mais de um espaço onde e-mails são trocados e informações são armazenadas.
+Agora, ela está em todos os objetos e lugares em que oferece valor, como nos mostra o surgimento da Internet das Coisas.
+
+Após a criação da WWW, o lançamento do Google em 1997 foi um novo ponto de virada na história da Internet. A empresa levou essa rede para um amplo público, oferecendo um 
+navegador amigável.
+Hoje, o Google funciona como navegador e mecanismo de busca, conta com quase um bilhão de páginas indexadas e oferece fácil acesso às informações graças aos seus algoritmos.
+
+As redes sociais também foram, assim como o Google, um grande acontecimento. Embora não tenha sido o primeiro, o Facebook é o caso mais bem-sucedido de aplicação da Internet como 
+meio de comunicação e informação, fornecendo acesso às notícias e permitindo que as pessoas se comuniquem em tempo real.
+O YouTube marcou outro antes e depois na história da Internet, mostrando que ela também serve como meio de entretenimento, eventualmente substituindo a mídia tradicional, como 
+televisão ou rádio.
+Com a chegada massiva de usuários à Internet, as empresas perceberam o enorme potencial de impactar o seu público por meio desses canais. É por isso que hoje é impossível falar 
+de Internet sem publicidade e técnicas de SEO.
+
+A Internet desencadeou a Quarta Revolução Industrial, levando o mundo a se estabelecer na Era da Informação.
+Inclusive, a Internet 2.0 já está sendo tratada como uma nova etapa que permite que os usuários deixem de ser apenas espectadores e passem a interagir e colaborar entre 
+si como criadores de conteúdo.
+A Internet 2.0 é uma tendência baseada em desenhar sites centrados no usuário e que facilitem o compartilhamento e a troca de informações.
+A linha do tempo da história da Internet é formada por evoluções e méritos compartilhados que levaram a humanidade a transformar seu estilo de vida e mudar para sempre seus 
+hábitos e processos.
+
+
+
+___REFERÊNCIAS___
+
+Vídeo de referência: https://youtu.be/F74GKCLXUWM?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+Wikipedia: https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_Internet
+Folha de S.Paulo: https://www1.folha.uol.com.br/folha/cotidiano/ult95u34809.shtml
+Rockcontent: https://rockcontent.com/br/blog/historia-da-internet/
+
+
+** ASSISTA **
+
+https://www.youtube.com/watch?v=TNQsmPf24go
