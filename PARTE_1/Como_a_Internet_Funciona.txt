@@ -57,7 +57,7 @@ embora cada CD proprietário era limitado à 650 ou 700 MiB.
 
 ** Múltiplos de Byte
 
-Múltiplos do byte
+Múltiplos do Byte
 
 Prefixo binário (IEC)		        Prefixo do SI
 
@@ -80,6 +80,7 @@ ___REFERÊNCIAS___
 
 Wikipédia: https://pt.wikipedia.org/wiki/Byte
 Tecnoblog: https://tecnoblog.net/meiobit/36261/bit-ou-byte-voc-tamb-m-teria-esse-problema-de-esquecimento/
+
 
 
 
@@ -172,3 +173,56 @@ ___REFERÊNCIAS___
 TechTudo: https://www.techtudo.com.br/noticias/noticia/2011/07/como-internet-chega-na-sua-casa.html
 MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work
 Minha Conexão: https://www.minhaconexao.com.br/blog/entenda-como-funciona-a-internet-que-chega-a-sua-casa/
+
+
+
+
+___MODEM & ROTEADOR___
+
+
+
+O modem é responsável por decodificar a internet que chega do provedor para a sua casa, enquanto o roteador é responsável por distribuir a internet para dois ou mais dispositivos. 
+Mas, as diferenças não param por aí! Abaixo, você pode conferir o que fazem e quais as principais diferenças entre o modem e o roteador!
+
+
+** O que o modem faz
+
+Ao contratar um plano de internet para a sua residência, você precisará de um aparelho que é capaz de permitir que a internet seja acessada. Este aparelho é o modem, que geralmente 
+é fornecido pela operadora, e é ele o responsável por permitir que o sinal enviado por ela chegue até você de forma estável.
+Indo um pouco mais a fundo, é possível compreender a necessidade do modem. Um dispositivo como PC ou celular só são capazes de processar sinais digitais, ao passo que os sinais 
+enviados de fora geralmente são analógicos, como por exemplo: ADSL (via telefone), rádio (para internet via rádio) e óptico (para fibra ótica).
+
+Portanto, é o modem que vai realizar o papel de transformar o sinal analógico em digital (demodular) e o sinal digital em analógico (modular). Isso acontece porque os dispositivos não 
+só recebem informações da internet, mas também enviam. Pelo fato de estes processos serem conhecidos como “modular” e “demodular”, o nome “modem” veio da junção das duas palavras.
+
+
+** O que o roteador faz
+
+Por outro lado, o roteador é o nome dado ao aparelho que é responsável por dividir o já convertido sinal digital da internet para dois ou mais dispositivos. Este processo pode ser 
+feito através do cabo de rede ou do sinal de Wi-Fi.
+Tecnicamente falando, se você possui apenas um PC que pode ser conectado pelo cabo, não é necessário ter um roteador. Porém, como muitos usuários possuem celular, computador, tablet e 
+outros dispositivos inteligentes com acesso à internet, o roteador acaba se tornando um item necessário.
+
+** Dispositivos híbridos
+
+No mercado existem inúmeros modelos de modems e roteadores, porém, também é possível encontrar alguns que realizam as duas funções ao mesmo tempo. Ou seja, o aparelho irá decodificar 
+a internet recebida ao mesmo tempo que pode distribuí-la para todos os seus dispositivos.
+Dispositivos híbridos podem ser muito úteis para aqueles que utilizam a internet em poucos cômodos da residência ou da empresa, mas pode ser que não sejam completos para as duas funções, 
+principalmente a de roteador. Para aqueles que possuem muitos dispositivos e um amplo espaço, talvez seja melhor investir em um roteador mais potente.
+
+** Algumas boas práticas
+
+Existem casos em que a falta de sinal de internet pode não ser culpa da conexão do modem ou do roteador, mas da sua localização. Por comodidade, os roteadores acabam sendo posicionados 
+perto do modem, mas nem sempre acabam ficando nos melhores lugares do ambiente.
+
+Se possível, em casos como esse, tente localizar o melhor lugar da sua casa, para que o sinal possa ser acessado mesmo de pontos remotos. Caso isso não seja possível, é muito provável 
+que você precise instalar um repetidor de sinal.
+
+Reinicie o seu modem e roteador com frequência. Assim como todo hardware, mantê-lo constantemente ligado pode fazer com que ele passe por algum tipo de instabilidade e apresente algumas 
+falhas. A reinicialização dos aparelhos pode acabar resolvendo este tipo de problema.
+
+
+
+___REFERÊNCIAS___
+
+Canaltech: https://canaltech.com.br/telecom/qual-a-diferenca-entre-modem-e-roteador/
