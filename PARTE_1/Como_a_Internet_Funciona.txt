@@ -226,3 +226,36 @@ falhas. A reinicialização dos aparelhos pode acabar resolvendo este tipo de pr
 ___REFERÊNCIAS___
 
 Canaltech: https://canaltech.com.br/telecom/qual-a-diferenca-entre-modem-e-roteador/
+
+
+
+
+___DNS___
+
+
+
+** O que é DNS?
+
+O Sistema de Nomes de Domínio (DNS) é a lista telefônica da internet. Os seres humanos acessam informações on-line por meio de nomes de domínio, como nytimes.com ou espn.com. 
+Os navegadores da internet interagem por meio de endereços IP (Protocolo de Internet). O DNS converte nomes de domínio em endereços IP para que os navegadores possam carregar os 
+recursos da internet.
+
+Cada dispositivo conectado à internet tem um endereço IP único que outras máquinas utilizam para localizar o dispositivo. Os servidores de DNS eliminam a necessidade de que humanos 
+memorizem endereços IP como 192.168.1.1 (no IPv4) ou endereços IP alfanuméricos mais complexos mais recentes, como 2400:cb00:2048:1::c629:d7a2 (no IPv6).
+
+** Como funciona o DNS?
+
+O processo de resolução do DNS envolve a conversão de um hostname (como www.exemplo.com) em um endereço IP fácil de ser entendido por um computador (como 192.168.1.1). Um endereço IP 
+é fornecido para cada dispositivo na internet, e esse endereço é necessário para que o dispositivo de internet apropriado seja encontrado — como um endereço postal é usado para 
+encontrar uma determinada casa. Quando um usuário deseja carregar uma página da internet, precisa haver uma tradução daquilo que o usuário digita no navegador web (exemplo.com) para 
+o endereço de máquina necessário para localizar a página do site exemplo.com.
+
+Para entender o processo por trás da resolução do DNS, é importante saber mais sobre os diferentes componentes de hardware pelos quais uma consulta de DNS precisa passar. Para o 
+navegador web, a pesquisa de DNS ocorre "nos bastidores" e não requer nenhuma interação do computador do usuário além da solicitação inicial.
+
+
+
+___REFERÊNCIAS___
+
+CloudFlare: https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/?acl321n-ge-PPCNetworks-MagicTransit&&_bt=533774218552&_bk=&_bm=b&_bn=g&_bg=112038156926&_placement=&_target=&_loc=1001773&_dv=c&awsearchcpc=1&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9awwFIa3D0Ain83Bn3u8H5tWacupKp1DpreOvZx7Uav9gkZkj92Z6ahoCTwYQAvD_BwE&gclsrc=aw.ds
+Canaltech: https://canaltech.com.br/internet/o-que-e-dns/
