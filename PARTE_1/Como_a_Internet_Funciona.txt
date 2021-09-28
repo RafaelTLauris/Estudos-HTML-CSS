@@ -1,3 +1,174 @@
-Bit e byte
+___BIT E BYTE___
 
-como nos conectamos na internet
+
+
+** Memória principal
+
+Popularmente conhecida como (D)RAM e incluo aqui também a cache (SRAM), de onde o sistema operativo e seus programas compatíveis são diretamente executados pelos microprocessadores.
+
+Tal tipo de memória caracteriza-se pela volatilidade das informações, nela gravadas, após o desligamento do aparelho, característica que é compensada pela enorme velocidade de 
+acesso do microprocessador aos dados que estariam ali contidos.
+
+
+** Memória secundária
+
+A de armazenamento, que é a mais barata, já que possui diversas tecnologias concorrentes e, de certa forma, complementares entre si (discos magnéticos e/ou ópticos, chips ROM de 
+diversos tipos, SSDs, etc.). Tais tecnologias garantem que as informações contidas, nesse tipo de memória, possam ser resgatadas mesmo após o desligamento da máquina sendo capaz de 
+acessar a mídia física da memória secundária.
+
+O porém é que a velocidade de transferência desses dados gravados, na memória secundária, ainda é irrisória diante da competência que coube à memória principal. Isso considerando 
+tecnologias e interfaces contemporâneas, claro.
+
+
+** O que é Bit e Byte?
+
+    -A mais elementar é o bit (sempre abreviada como ‘b’ minúsculo, e Meio ‘Bit’ é nome próprio, tratando-se de exceção prevista no idioma português), que representa o dígito 
+    binário 0 ou 1. Quando usamos o bit como unidade, geralmente referimo-nos à velocidade de transferência de dados (em transferência, sempre colocamos o tempo analisado, geralmente 
+    por [/] segundo [s]);
+
+    -Já a mais popular é o octeto de bits, o byte (é abreviada sempre com ‘B’ maiúsculo e opto no presente texto por escrever Byte para realçar isso, em determinados momentos), que 
+    representaria um caractere (ASCII e mais outros 128 deles…) e é utilizado em qualquer situação para designar a capacidade de armazenamento da memória, seja essa memória a principal 
+    ou secundária.
+
+Num passado não muito distante, o JEDEC e o SI brigavam entre si por conta de ambos utilizarem as mesmas ordens de grandeza (o quilo, o mega, o giga, o tera, etc…), só que com 
+significados bem diferentes. Para evitar mais confusões, ambos chegaram a um acordo para diferenciar as ordens de grandeza binárias (JEDEC) das ordens de grandeza decimais (SI):
+
+Por exemplo, o quilobyte (também conhecido como quibibyte, coisa que nem gosto de pronunciar), quando a ordem de grandeza é binária, ou seja, o termo é equivalente à 1.024 Bytes, é 
+abreviado como KiB. Mas caso essa ordem de grandeza seja decimal, ou seja, ao referirmo-nos a 1.000 Bytes, então abreviaríamos como kB. Resumindo: na abreviatura, um ‘i’ minúsculo 
+é incluído para as ordens de grandeza binária.
+
+Utilizamos as ordens de grandeza binárias em quase toda referência à memória de nossos Equipamentos de Tecnologia da Informação, seja ela a principal ou secundária. E quanto às 
+ordens de grandeza decimal?
+
+Chegamos à parte interessante: geralmente utilizamos as ordens de grandeza decimais quando tratamos de velocidade de transferência de dados, além de utilizarmos o Byte sendo composto 
+por 10 (dez) bits, devido à codificação 8b/10b, onde há os oito bits de dados + dois bits de paridade.
+
+Então, quando referimo-nos à velocidade de acesso à internet de, por exemplo, 10 Megabits por segundo, essa velocidade seria equivalente à 1 MegaByte por segundo, não 1,25 MB/s como 
+se suporia. A interface USB 2.0 pode chegar aos 480 Mbit/s (60 MB/s, half-duplex) se não fossem os protocolos proprietários enviados para identificar o componente conectado, 
+juntamente com outras interrupções e restrições, ao passo que o USB 3.0 poderia, em teoria, chegar aos 5 'Gbps' Gbit/s.
+
+Na prática, o USB 3.0 acaba chegando à um pouco menos de um décimo desse número na grandeza mais comum, “apenas” 480 'MBps' MB/s. Isso já é dez vezes mais que o padrão anterior e 
+full-duplex. Apenas frisando: o tio Laguna compara os 480 MB/s do USB 3.0 com os 480 Mb/s do USB 2.0. A abreviatura da unidade de medida é case-sensitive.
+
+Agora tenho outra situação interessante sobre o que é bit e byte: o melhor jogo que já joguei na vida era anunciado como tendo incríveis 256 Megabits e, à época, quando eu era um mero 
+aborrecente, notei que isso não passava de “apenas” 32 MiB. Enquanto isso, o console concorrente, não tão “imune” à pirataria, infelizmente, tinha jogos que ocupavam mais de um CD, 
+embora cada CD proprietário era limitado à 650 ou 700 MiB.
+
+
+** Múltiplos de Byte
+
+Múltiplos do byte
+
+Prefixo binário (IEC)		        Prefixo do SI
+
+Nome	Símbolo	    Múltiplo		Nome	    Símbolo	    Múltiplo
+
+byte	    B	    20		        byte	    B	        100
+kibibyte	KiB	    210		        kilobyte	kB	        103
+mebibyte	MiB	    220		        megabyte	MB	        106
+gibibyte	GiB	    230		        gigabyte	GB	        109
+tebibyte	TiB	    240		        terabyte	TB	        1012
+pebibyte	PiB	    250		        petabyte	PB	        1015
+exbibyte	EiB	    260		        exabyte	    EB	        1018
+zebibyte	ZiB	    270		        zettabyte	ZB	        1021
+yobibyte	YiB	    280		        yottabyte	YB	        1024
+
+
+
+
+___REFERÊNCIAS___
+
+Wikipédia: https://pt.wikipedia.org/wiki/Byte
+Tecnoblog: https://tecnoblog.net/meiobit/36261/bit-ou-byte-voc-tamb-m-teria-esse-problema-de-esquecimento/
+
+
+
+
+___INTERNET___
+
+
+
+** O que é a Internet?
+
+Ao falarmos sobre Internet, geralmente lembramos que ela é “uma rede de computadores”. Podemos até dizer que sim, mas para compreender como a Internet chega na sua casa vamos imaginar 
+que ela é uma pequena rede conectada a outras redes (maiores) de computadores. Sendo assim, não há um dono da Internet, nem uma empresa que a controle, mas sim um grupo de várias 
+redes interligadas.
+
+Quando conectamos um computador a outro, ou quando ligamos vários computadores uns aos outros, criamos uma rede local. Mas desta forma, os computadores só se comunicam uns 
+com os outros, sem acesso a outros computadores fora da sua casa ou empresa, sem acesso a outros servidores, como é possível quando há acesso à Internet.
+
+Este acesso externo ocorre quando a sua rede local se conecta a uma outra rede maior - no caso, o seu provedor de Internet - por meio da tecnologia TCP/IP, um modo de comunicação 
+baseado no endereço de IP (Internet Protocol). Este IP é o endereço de cada um dos pontos de uma rede, e cada ponto da rede consiste em um computador que, por sua vez, se interliga a 
+outros computadores, formando uma verdadeira “teia de redes”.
+
+Já os sites e serviços acessados pela Internet são - de maneira simplificada - aplicativos disponíveis em servidores. E esses servidores são formados por grandes computadores 
+conectados à rede mundial de Internet, cada um deles também identificado por um endereço de IP.
+
+
+** O Caminho da Internet
+
+Agora sim, vamos entender qual o caminho que a Internet faz até chegar na sua casa. Este caminho passa por quatro passos principais, sempre identificados por um endereço de IP:
+o Backbone, o provedor de acesso, o provedor de serviço e o usuário final.
+
+
+**Backbone
+
+Primeiramente vamos conhecer o ponto inicial de referência da Internet, o setor que interliga todos os pontos da rede: o backbone.
+Estes backbones são pontos das redes que compõem o núcleo das redes de Internet. São pontos-chave da Internet que distribuem pelas redes as informações baseadas na tecnologia TCP/IP. 
+Existem poucos backbones espalhados pelo mundo, e estes são os responsáveis por distribuir o acesso mundial para a rede de Internet.
+
+
+** Provedor de acesso
+
+A partir dos backbones, a Internet passa para uma nova etapa, quando o seu sinal chega aos provedores de acesso - as empresas que contratam o sinal de backbones para distribuir aos 
+seus usuários. Os provedores de acesso são, em geral, empresas ligadas ao setor de telecomunicações, ou até mesmo as próprias companhias telefônicas, que fornecem o acesso à Internet 
+por meio de planos acordados com seus usuários.
+
+
+** Provedor de serviço
+
+Estes dados de Internet que trafegarão na rede necessitam de um meio para o seu transporte até os usuários, e são as empresas provedoras de serviço as responsáveis por este papel. 
+Estas empresas recebem os dados do provedor de acesso e distribuem aos usuários por variados meios, seja por linha telefônica, fibra ótica ou via rádio (por tecnologia sem fio).
+Estas empresas devem sempre ser regulamentadas pela Anatel e podem ser prestadores de serviço de rede, companhias telefônicas e empresas de telecomunicações.
+
+
+** Usuário final
+
+Este pode parecer o passo final do caminho percorrido pela Internet, mas na verdade não é. Ao chegar no usuário final o sinal de Internet passa a repetir todo o caminho novamente, 
+porém na forma inversa, já que você, como usuário final, também envia sinais - com as suas requisições - para a Internet.
+
+Os dados enviados pelos usuários são transportados pelo provedor de serviço, enviados para o provedor de acesso e chegam novamente ao backbone. A partir do backbone, o processo segue 
+novamente o mesmo caminho inicial até o próximo destino, que pode ser, por exemplo, o arquivo do CD que você está querendo fazer download, lá na Espanha.
+Ao acessar o site do CD desejado, entretanto, ninguém obviamente sabe o endereço IP completo da máquina que hospeda esses arquivos ou sites. O que conhecemos é o endereço “www”. Estes 
+endereços de sites são baseados na tecnologia DNS, que basicamente cria atalhos entre os endereços “www” à endereços IP. Assim, não é necessário que você navegue decorando endereços 
+do tipo "192.168.200.45" para acessar o seu site preferido. Basta conhecer o endereço “www”.
+
+Após acessar o site, por DNS, o endereço “www” te jogará para o endereço IP onde ele está hospedado. Feito isso o site receberá o seu sinal pedindo para baixar o arquivo do CD, e 
+este sinal será transportado pelo seu provedor de serviço para o provedor de acesso, que o levará até o backbone. Chegando no backbone contratado, o sinal deve alcançar o servidor 
+espanhol onde estão os arquivos do CD que você quer baixar, então o backbone do seu provedor enviará um sinal para o backbone do provedor do site espanhol do CD, que fará o mesmo caminho. Ao fim, o arquivo finalmente será transferido de lá para o seu computador.
+
+Vamos apenas lembrar que nestes processos podem existir outros servidores intermediários com seus respectivos endereços IP, já que um provedor de acesso ou um backbone pode 
+distribuir o sinal por três servidores diferentes, por exemplo.
+
+
+** Outros caminhos possíveis
+
+Agora que você já conhece o funcionamento da Internet e qual o caminho que ela faz para chegar à sua casa, há mais um detalhe importante: nem sempre funciona assim. Existem outros 
+serviços baseados na Internet que não seguem exatamente este mesmo caminho, como por exemplo a telefonia VoIP (Voz sobre IP) e o compartilhamento de arquivos P2P (ponto à ponto).
+Os serviços de VoIP, que possibilitam o tráfego de voz sobre a rede de Internet, permitem que você faça ligações para outros usuários do serviço e também para usuários da telefonia 
+convencional.
+
+Em uma ligação entre usuários de VoIP, cada usuário utilizando um computador equipado com software específico ou um aparelho telefônico especial se conecta ao provedor VoIP que 
+intermedia a comunicação. Já em uma ligação entre um usuário de VoIP com um telefone convencional, celular ou fixo, o usuário VoIP se conecta ao provedor VoIP que efetua uma ligação 
+para o telefone convencional desejado.
+
+Já no compartilhamento de arquivos P2P, os usuários compartilham arquivos de forma ponto à ponto - ou seja: cada usuário decide compartilhar alguns dos seus arquivos com uma 
+determinada rede P2P (Kazaa, Emule, Ares, BitTorrent, etc). Com isso, estes arquivos ficam disponíveis para todos usuários que utilizam o software pertencente à rede de P2P.
+
+
+
+___REFERÊNCIAS___
+
+TechTudo: https://www.techtudo.com.br/noticias/noticia/2011/07/como-internet-chega-na-sua-casa.html
+MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work
+Minha Conexão: https://www.minhaconexao.com.br/blog/entenda-como-funciona-a-internet-que-chega-a-sua-casa/
