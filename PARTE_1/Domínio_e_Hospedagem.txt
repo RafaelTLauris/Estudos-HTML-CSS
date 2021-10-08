@@ -1,0 +1,57 @@
+___DOMÍNIO___
+
+Nome de domínio é um nome que serve para localizar e identificar conjuntos de computadores na internet.
+
+O nome de domínio foi concebido com o objetivo de facilitar a memorização dos endereços de computadores na Internet. Sem ele, teríamos que memorizar uma sequência grande de números.
+
+
+
+___HOSPEDAGEM___
+
+Hospedagem de sites (português brasileiro) ou alojamento de sites (português europeu) é um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos, 
+informações, imagens, vídeo, ou qualquer conteúdo acessível por Web. Provedores de Hospedagem de Sites tipicamente são empresas que fornecem um espaço em seus servidores e conexão à 
+internet a estes dados aos seus clientes.
+
+Tipicamente a hospedagem de sites, hospeda arquivos 24 horas por dia, em um endereço IP estático, por sua vez, utilizamos um domínio para encontrar com facilidade este site, é muito 
+comum confundir hospedagem de sites com registro de domínio, entretanto, apesar de ambos trabalharem em conjunto, são serviços diferentes.
+
+
+___URL___
+
+O Uniform Resource Locator (URL), é um termo técnico (e anglicismo de tecnologia da informação) que foi traduzido para a língua portuguesa como "localizador uniforme de recursos". 
+Um URL se refere ao endereço de rede no qual se encontra algum recurso informático, como por exemplo um arquivo de computador ou um dispositivo periférico (impressora, equipamento 
+multifuncional, unidade de rede etc.). Essa rede pode ser a Internet, uma rede corporativa (como uma intranet) etc.
+
+Nas redes TCP/IP, um URL completo possui a seguinte estrutura:
+
+
+[ esquema ou protocolo://domínio:porta/caminho/recurso?query_string#fragmento ]
+
+
+- O esquema é o protocolo. Poderá ser HTTP, HTTPS, FTP etc.
+
+- O domínio é o endereço da máquina: designa o servidor que disponibiliza o documento ou recurso solicitado.
+
+- A porta é o ponto lógico no qual se pode executar a conexão com o servidor. (opcional)
+
+- O caminho especifica o local (geralmente num sistema de arquivos) onde se encontra o recurso, dentro do servidor.
+
+- A query string é um conjunto de um ou mais pares "pergunta-resposta" ou "parâmetro-argumento" (como por exemplo nome=fulano, em que nome pode ser, por exemplo, uma variável, e 
+fulano é o valor (argumento) atribuído a nome). É uma string enviada ao servidor para que seja possível filtrar ou mesmo criar o recurso. (opcional)
+
+- O fragmento é uma parte ou posição específica dentro do recurso. (opcional)
+
+- O esquema informa ao computador como conectar-se (que linguagem o computador deverá usar para as comunicações), o domínio especifica onde conectar-se (a localização do outro computador) 
+e os demais elementos do URL especificam o que está sendo solicitado.
+
+Exemplo: http://www.w3.org/Addressing/URL/uri-spec.html
+
+No exemplo acima, o protocolo é o HTTP, o servidor é designado por www.w3.org e o recurso (neste caso, o arquivo uri-spec.html) encontra-se em Addressing/URL/. A porta, omitida, recai 
+sobre o padrão do protocolo (no caso, a porta 80) e não há query string ou identificador de fragmento.
+
+
+
+
+___REFERÊNCIAS___
+
+Curso em Vídeo: https://youtu.be/RFHSt1PCy0k?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
