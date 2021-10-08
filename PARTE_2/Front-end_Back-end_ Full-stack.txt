@@ -1,0 +1,25 @@
+___FRONT-END___
+
+Podemos classificar como a parte visual de um site, aquilo que conseguimos interagir. Quem trabalha com Front End é responsável por desenvolver por meio de código uma interface gráfica normalmente com as tecnologias base da Web (HTML, CSS e JavaScript). Algumas pessoas podem confundir um pouco esse trabalho com o que um designer faz (no passado existia uma entidade chamada Webmaster que fazia tudo isso e mais um pouco), mas a diferença aqui é que o designer vai utilizar alguma ferramenta visual para desenhar a interface, do Photoshop ao Sketch, e quem faz front-end estará mais próxima do código em si, que irá rodar em um navegador Web como Chrome, Firefox ou Safari. 
+
+
+___BACK-END___
+
+Back End, como o próprio nome sugere, vem da ideia do que tem por trás de uma aplicação. Pode ficar meio abstrato em um primeiro momento, mas pense que para conseguir usar o Facebook no dia a dia, os dados do seu perfil, amigos e publicações precisam estar salvos em algum lugar, sendo esse lugar um banco de dados e processados a partir de lá. Não basta apenas o front-end em HTML e CSS! O Back End trabalha em boa partes dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo.
+
+É comum desenvolvedores Back End trabalharem com ferramentas de linha de comando, sites (deixando o HTML dinâmico), análise de dados (embora isso puxe mais o que um Data Scientist faz). Tudo isso pode ser feito com uma série de linguagens diferentes como: PHP, Ruby, Java, Clojure, C# entre diversas outras.
+
+
+
+___FULL-STACK___
+
+O desenvolvedor full stack é capaz de trabalhar com toda a pilha de desenvolvimento de um projeto. Além de conseguir atuar com o font-end e o back-end, esse profissional também pode contribuir em todas as etapas e partes de um sistema, como o servidor e o banco de dados.
+
+
+
+
+___REFERÊNCIAS___
+
+Alura: https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end?gclid=CjwKCAjw2P-KBhByEiwADBYWCqTom1coFFD6s4jRTnX3qfuwA1FCJGbAdJaz8Ijuuhph657duLLrlRoC9gEQAvD_BwE
+Digital Innovation One: https://digitalinnovation.one/artigos/dev-full-stack
+Curso em Vídeo: https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10
