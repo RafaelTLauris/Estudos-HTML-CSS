@@ -59,3 +59,7 @@ Independentemente do editor utilizado, podemos simplesmente copiar o código da 
 ___Tags do HTML___
 
 Um documento HTML é composto por tags, as quais possuem um nome e aparecem entre os sinais < e >, como vimos na Listagem 1, por exemplo, em <html> e <head>. Naquele exemplo também vimos que algumas tags precisam ser abertas e fechadas, como em <body> </body>. Nesse caso, a tag de fechamento deve conter a barra / antes do nome. Outras, porém, não precisam ser fechadas, como a tag <meta>. Nesses casos, a adição da barra / no final da própria tag, como vemos na Linha 4 da Listagem 1 é opcional.
+
+Outro aspecto importante da linguagem é que ela é case insensitive, ou seja, não leva em consideração a diferença entre letras maiúsculas e minúsculas. No entanto, o uso apenas de letras minúsculas tem sido utilizado como padrão pelos desenvolvedores.
+
+Além dessas características, as tags também possuem atributos, como vemos na Linha 4 da Listagem 1, na qual a tag meta possui o atributo charset=”UTF-8”. Essas propriedades definem algumas características adicionais de cada tag e em alguns casos são obrigatórias. Seus valores devem aparecer entre aspas duplas, como no exemplo acima, ou em aspas simples, caso o próprio valor contenha aspas duplas.
