@@ -1,0 +1,80 @@
+    Formatos de Imagem Digital
+
+
+
+    1. JPEG/JPG (Joint Photographic Experts Group)
+
+O formato de imagem JPEG, também chamado de JPG é o formato de imagem considerado padrão e o mais utilizados no ambiente digital. Além disso, o JPG possui uma taxa de compressão bastante alta, podendo fazer com que uma imagem de resolução Full HD (1920×1080 pixels) ocupe muito pouco espaço no disco rígido – cerca de 100 Kb. Contudo, isso só acontece devido à perda da qualidade.
+
+A taxa de compressão do JPG é ajustável. isso significa que é possível equilibrar a qualidade com o tamanho da imagem. Ou seja, em casos em que a taxa de compressão é mínima, o arquivo ainda não ocupa tanto espaço no disco. 
+
+
+
+    2. GIF (Graphics Interchange Format)
+
+O GIF foi o formato de imagem desenvolvido pela CompuServe que possui limitações de qualidade, bem adequado aos monitores e à conexão discada da época.   
+
+O GIF é bastante utilizado em imagens na web que não precisam de qualidade, mas os formatos PNG e TIFF vêm se popularizando e preferidos ao invés do GIF. Contudo, o grande diferencial deste formato é a possibilidade de animações.
+
+Essas animações são apresentadas em aproximadamente 15 frames por segundo. Além disso, as velocidades de carregamento e de exibição não deixam tão claro a limitação de cores dos GIFs.
+
+
+
+    3. PNG (Portable Network Graphics)
+
+O formato PNG, apesar de não suportar animações, possui bastantes vantagens em relação ao GIF, uma vez que o PNG possui uma variação de cores infinitamente maior. Além disso, o PNG possui a possibilidade de fundo de imagem transparente e pode ser comprimido sem que a qualidade seja perdida.
+
+Por todos esses motivos, o PNG é o formato mais indicado para ser utilizado em estratégias digitais.
+
+
+
+    4. BMP (Bitmap)
+
+O formato BMP preserva todos os detalhes do arquivo original. No entanto, essa extensão possui uma taxa de compressão muito baixa, fazendo com que os arquivos fiquem muito pesados se a resolução for mantida.
+
+
+
+    5. PSD
+
+O formato de imagem PSD é amplamente utilizado por profissionais do design. Isso acontece pois este é o formato aplicado nas versões do Photoshop, pois consegue suportar diversas ferramentas avançadas como máscaras, camadas, canais alpha, etc.
+
+Dessa forma, os profissionais da área optam pelo formato para manter a estrutura original da imagem. Posteriormente, estas são convertidas em outros formatos que possuem mais compatibilidade, como o PNG, JPG ou TIFF, para resoluções maiores.
+
+
+
+    6. TIFF
+
+O formato TIFF utiliza a compressão sem perdas. Por isso, é considerado o melhor formato de alta qualidade para se trabalhar. Além disso, este formato de imagem é bastante utilizado para arquivos de impressão. 
+
+Devido à sua versatilidade, como a manutenção da resolução, a possibilidade de trabalhar com páginas e camadas, por exemplo, este formato também é bastante pesado.
+
+
+
+    7. PDF (Portable Document Format)
+
+Este formato de imagem foi criado pela Adobe em 1993 devido à necessidade de existir um tipo de arquivo que fosse universal. Ou seja, era necessário um formato que fosse compatível independentemente do software utilizado, do sistema operacional, de sua resolução e tamanho. Além disso, PDFs possuem alta versatilidade uma vez que armazenam bitmaps, vetores, textos, etc.
+
+
+
+    8. SVG (Scalable Vector Graphics)
+
+O SVG é um formato vetorial que é compatível com a maior parte dos navegadores web modernos. Sendo assim, esse formato pode ser utilizado em website, blog, entre outros. Além disso, o SVG pode ser animado através de programação em HTML 5.0. 
+
+
+
+    9. RAW
+
+É o formato utilizado principalmente por câmeras digitais, que realizam a compressão sem que hajam perdas na resolução ou informação. No entanto, não há um padrão que normalize todas as imagens no formato RAW, fazendo com que este não seja compatível com muitos programas.
+
+
+
+    10. WEBP
+
+Este formato foi desenvolvido pelo Google em 2010, buscando fazer com que as imagens fiquem até 40% menores do que o JPEG sem que se perca a qualidade. Além disso, este formato é visto por alguns como sendo o futuro formato padrão da internet.
+
+
+
+
+___REFERÊNCIAS___
+
+Futura Express: https://www.futuraexpress.com.br/blog/formatos-de-imagem/
