@@ -1,0 +1,58 @@
+HIERARQUIA DE TÍTULOS
+
+
+
+Todo desenvolvedor web que estudou HTML sabe que existem seis níveis de títulos que vai do H1 até o H6, a ideia é usá-las para fornecer hierarquia e sentido ao seu site. As tags funcionam da seguinte forma: H1 representa o cabeçalho mais importante e o H6o menos importante.
+
+Muitos devs (por desconhecimento) usam cabeçalhos H1…H6 para estilizar fontes, determinando a espessura e o tamanho da fonte através dos níveis de cabeçalho, mas isso é extremamente o oposto do que os cabeçalhos propõem.
+
+As tags de cabeçalho devem seguir uma lógica estruturada dentro da sua página e usadas de forma crescente. Por exemplo, se o seu site tiver uma tag H1 e ela for seguida de uma tag H3, teremos uma quebra de hierarquia e possíveis problemas de SEO.
+
+Uma coisa interessante é que a hierarquia acontece de maneira obrigatória de cima para baixo, porém, é possível usar a estrutura de baixo para cima sem problemas, como, por exemplo um H2 vindo logo após de um H3.
+
+
+
+___Porque Devemos Usar Cabeçalhos HTML
+
+Como já mencionado os títulos de cabeçalhos não são sobre a aparência, a estilização é algo gerado pelos navegadores, o fator principal é seu nível de relevância. Uma boa estrutura de títulos é importante tanto para acessibilidade, quanto para mecanismos de busca.
+
+
+
+___Posso Usar Mais De Uma Tag H1?
+
+Uma dúvida comum entre os devs é sobre a possibilidade de utilizar mais de uma tag H1 no mesmo documento. É possível?
+
+A resposta é SIM, as especificações do HTML5 para as tags de cabeçalho inclui suporte a vários H1, porém, desde que sejam inseridos em elementos que forneçam contextos distintos nas regiões ou seções da página.
+
+Quando se trata de SEO também não tem problemas utilizar mais de um H1 na página, é um mito achar que um H1 é fator decisivo para melhorar o ranqueamento, mito maior ainda é achar que vários H1 melhoraria ainda mais sua posição.
+
+
+
+___Quando Usamos Cabeçalhos H2-H6?
+
+Os cabeçalhos H2-H6 são usados para continuar com a estrutura do documento, normalmente como pode ter múltiplos H2 usamos ele para títulos de seções do conteúdo (subtítulos) e H3 para algum subtítulo com um nível abaixo dele.
+
+Dificilmente você chegará nas tags H4-H6, existem casos de uso sim, não se limite, pode usar a vontade, mas são poucos conteúdos que chegam a esse nível de cabeçalho.
+
+
+
+___A Importância Das Tags De Cabeçalhos Para O SEO
+
+As tags de cabeçalho tem alguma influência (embora pequena e não determinante) quando se trata de classificação. Para os mecanismos de busca fica mais fácil ler um conteúdo bem estruturado e organizado do que ter que analisar uma página com problemas de estrutura.
+
+Para os usuários os cabeçalhos são como âncoras que ajuda a encontrar o conteúdo mais facilmente.
+Aqui no HTML Moderno usamos os títulos H2 para criar um índice que fica no topo do artigo.
+Esses detalhes contribuem para passar uma boa imagem e consequentemente aumentando a probabilidade de uma melhoria no ranking.
+
+Algumas dicas que podem ajudar na otimização:
+    -   Use as tags H2-H6 de maneira legível, evite excessos de palavra-chave foco nesses cabeçalhos;
+    -   Não pule de níveis (por exemplo, H1 para H3), mantenha a estrutura e a hierarquia consistente;
+    -   Defina somente uma tag H1 por página (Mesmo alguns especialistas do Google indicando a possibilidade de inserir mais de um H1, evite);
+    -   Na tag H1 combine um título relevante a página e a palavra-chave foco;
+
+
+
+
+___REFERÊNCIAS___
+
+Medium: https://medium.com/htmlmoderno/o-guia-completo-sobre-cabeçalhos-html-incluindo-semântica-seo-e-acessibilidade-f4cc597e679e
