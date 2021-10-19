@@ -1,0 +1,11 @@
+___Semântica no HTML 5
+
+
+A maior mudança do HTML4 para o HTML5 foi o acréscimo da semântica aos elementos. Na HTML4, tínhamos tags como <b> que colocava um texto em negrito, <u> que colocava o termo sublinhado e <blink> que fazia o testo piscar. Essas eram tags que representavam apenas uma *forma*.
+
+Já a HTML5 chegou com o conceito de valorizar a *semântica*, tags como <address> chegaram para dar um significado ao destaque de um endereço citado. Sendo assim, em HTML5 vemos de forma bastante evidente a presença do chamado *HTML semântico* ou *tags semânticas* ou ainda o *conteúdo semântico*. Se quiser que alguma parte do texto apareça sublinhada ou em negrito use o CSS para configurar isso, o HTML serve para dar sentido ao conteúdo.
+
+
+___REFERÊNCIAS___
+
+Gustavo Guanabara: https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/08%20-%20Formata%C3%A7%C3%A3o%20de%20Textos.pdf
