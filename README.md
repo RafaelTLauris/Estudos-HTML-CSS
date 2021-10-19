@@ -21,6 +21,10 @@ Este repositório público contém o material básico e informações com o prop
 * Imagens, tamanhos e formatos.
 * Favicon de um site.
 
+## Parte IV
+* Semântica no HTML 5.
+* Tags Obsoletas.
+
 
 
 

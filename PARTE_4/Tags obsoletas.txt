@@ -1,0 +1,16 @@
+___Tags Obsoletas
+
+
+Com o acréscimo da semântica vindo com o HTML5 muitas tags que tinham como objetivo definir formas como <b>, <bgcolor>, <center>, entre outras, foram consideradas obsoletas. A W3C publicou um artigo que mostra todas as tags que são consideradas obsoletas hoje em dia e esse artigo recebe atualizações recentemente para informar e atualizar nós desenvolvedores Web de tags que serão removidas futuramente e práticas novas que deverão ser dotadas.
+
+Confira a lista das Tags Obsoletas no site oficial da W3C:
+
+    https://dev.w3.org/html5/pf-summary/obsolete.html
+
+
+
+___REFERÊNCIAS___
+
+Curso em Vídeo: https://youtu.be/HaSgt1hK2Fs?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+W3C: https://dev.w3.org/html5/pf-summary/obsolete.html
+DevMedia: https://www.devmedia.com.br/tags-e-atributos-depreciados-na-html/28042
