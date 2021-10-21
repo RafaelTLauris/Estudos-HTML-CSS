@@ -24,6 +24,7 @@ Este repositório público contém o material básico e informações com o prop
 ## Parte IV
 * Semântica no HTML 5.
 * Tags Obsoletas.
+* Negrito e Itálico.
 
 
 
