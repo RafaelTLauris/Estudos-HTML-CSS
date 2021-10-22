@@ -25,6 +25,7 @@ Este repositório público contém o material básico e informações com o prop
 * Semântica no HTML 5.
 * Tags Obsoletas.
 * Negrito e Itálico.
+* Citações, Códigos e Formatações.
 
 
 
