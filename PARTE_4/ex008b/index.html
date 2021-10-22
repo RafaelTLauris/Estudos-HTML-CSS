@@ -11,29 +11,37 @@
     <h2>Código-fonte / Pré-formatado</h2>
     <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript.</p>
 
-    <pre>
-        <code>
-            console.log('vai começar')
+    <pre>  <!--O texto em um elemento <pre> é exibido em uma fonte de largura fixa e preserva os espaços e as quebras de linha. O texto será exibido exatamente como escrito no código-fonte HTML.-->
+
+        <code> <!--A tag <code> é usada para definir um trecho de código de computador. O conteúdo interno é exibido na fonte monoespaçada padrão do navegador-->
+        console.log('vai começar')
         for(var c = 1; c <= 6; c++){
             console.log(c)
         }
         console.log('fim')
         </code>
+
     </pre>
 
     <h2>Citações</h2>
-    <p>Como diria um pai de um amigo <q>o computador é um cara burro muito rápido</q></p>
+    <p>Como diria um pai de um amigo <q>o computador é um cara burro muito rápido</q></p> <!--A tag <q> define uma cotação curta, insere aspas-->
 
     <h2>Citações completas</h2>
-    <p>Segundo Maurício Samy Silva, no seu livro Fundamentos de HTML5 e CSS3:</p>
+    <p>Segundo Maurício Samy Silva, no seu livro Fundamentos de HTML5 e CSS3:</p>    
+
+    <!--A tag <blockquote> especifica uma seção citada de outra fonte. Deixa deslocada o texto citado-->
     <blockquote cite="https://www.google.com.br/books/edition/Fundamentos_de_HTML5_e_CSS3/2iPYCQAAQBAJ?hl=pt-BR&gbpv=1&dq=HTML&printsec=frontcover">
         CSS é a abreviação para o termo em inglês <em>Cascading Style Sheet</em>, traduzido para o português como folha de estilo em casacata.
     </blockquote>
 
     <h2>Abreviações</h2>
+
+    <!--A tag <abbr> define uma abreviatura ou acrônimo, e mostra a descrição da abreviatura ao passar o mouse sobre o elemento -->
     <p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheet">CSS</abbr></p>
 
     <h2>Texto invertido</h2>
+
+    <!--a tag <bdo> com a opção no dir="rtl" deixa o texto invertido, e na opção "ltr" o texto fica no sentido normal-->
     <p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo></p>
 </body>
 </html>
