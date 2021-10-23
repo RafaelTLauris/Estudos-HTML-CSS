@@ -27,6 +27,12 @@ Este repositório público contém o material básico e informações com o prop
 * Negrito e Itálico.
 * Citações, Códigos e Formatações.
 
+## Parte V
+* Listas Ordenadas
+* Listas não Ordenadas
+* Listas Mistas
+* Listas de Definição
+
 
 
 
