@@ -33,6 +33,9 @@ Este repositório público contém o material básico e informações com o prop
 * Listas Mistas
 * Listas de Definição
 
+## Parte VI
+* Links
+
 
 
 
