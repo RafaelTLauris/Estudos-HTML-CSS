@@ -1,0 +1,14 @@
+         TAGS USADAS E SUAS DEFINIÇÕES DA PARTE_5
+
+
+<ol> = A tag <ol> define uma lista ordenada. Uma lista ordenada pode ser numérica ou alfabética.
+
+<li> = A tag <li> define um item da lista ordenada.
+
+<ul> = A tag <ul> define uma lista não ordenada (com marcadores). Use a tag <ul> junto com a tag <li> para criar listas não ordenadas.
+
+<dl> = A tag <dl> define uma lista de descrição. A tag <dl> é usada em conjunto com <dt> (define os termos / nomes) e <dd> (descreve cada termo / nome).
+
+<dt> = A tag <dt> define um termo / nome em uma lista de descrição.
+
+<dd> = A tag <dd> é usada para descrever um termo / nome em uma lista de descrição. Dentro de uma tag <dd> você pode colocar parágrafos, quebras de linha, imagens, links, listas, etc.
