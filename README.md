@@ -20,6 +20,7 @@ Este repositório público contém o material básico e informações com o prop
 ## Parte III
 * Imagens, tamanhos e formatos.
 * Favicon de um site.
+* Imagens adaptativas.
 
 ## Parte IV
 * Semântica no HTML 5.
@@ -28,15 +29,15 @@ Este repositório público contém o material básico e informações com o prop
 * Citações, Códigos e Formatações.
 
 ## Parte V
-* Listas Ordenadas
-* Listas não Ordenadas
-* Listas Mistas
-* Listas de Definição
+* Listas Ordenadas.
+* Listas não Ordenadas.
+* Listas Mistas.
+* Listas de Definição.
 
 ## Parte VI
-* Links Externos
-* Links Internos
-* Links para Download
+* Links Externos.
+* Links Internos.
+* Links para Download.
 
 
 
