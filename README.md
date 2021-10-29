@@ -34,7 +34,9 @@ Este repositório público contém o material básico e informações com o prop
 * Listas de Definição
 
 ## Parte VI
-* Links
+* Links Externos
+* Links Internos
+* Links para Download
 
 
 
