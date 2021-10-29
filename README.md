@@ -20,7 +20,7 @@ Este repositório público contém o material básico e informações com o prop
 ## Parte III
 * Imagens, tamanhos e formatos.
 * Favicon de um site.
-* Imagens adaptativas. <----- Mudar de lugar talvez
+* Imagens adaptativas. <----- Mudar de lugar talvez (outros tipos de mídia)
 
 ## Parte IV
 * Semântica no HTML 5.
