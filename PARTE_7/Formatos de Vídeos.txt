@@ -1,0 +1,53 @@
+___Principais Formatos de Vídeo Existentes___
+
+
+
+Para escolher o melhor formato de vídeo digital para suas necessidades, primeiro você deve entender a diferença entre eles. Vamos revisar e entender brevemente os formatos comuns no mercado e seus recursos.
+
+
+
+1. MP4
+
+MPEG-4 Part 14 ou MP4 é um dos primeiros formatos de arquivo de vídeo digital introduzidos em 2001. A maioria das plataformas e dispositivos digitais suporta MP4. Um formato MP4 pode armazenar arquivos de áudio, arquivos de vídeo, imagens estáticas e texto. Além disso, o MP4 fornece vídeo de alta qualidade, mantendo tamanhos de arquivo relativamente pequenos.
+
+
+
+2. MOV
+
+MOV é um popular formato de arquivo de vídeo desenvolvido pela Apple. Foi projetado para suportar o QuickTime player. Os arquivos MOV contêm vídeos, áudio, legendas, códigos de tempo e outros tipos de mídia. É compatível com diferentes versões do QuickTimePlayer, tanto para Mac quanto para Windows. Por ser um formato de vídeo de alta qualidade, os arquivos MOV ocupam significativamente mais espaço na memória de um computador.
+
+
+
+3. WMV
+
+O formato de vídeo WMV foi desenvolvido pela Microsoft e é amplamente utilizado nos players de mídia do Windows. O formato WMV fornece tamanhos de arquivo pequenos com melhor compactação que o MP4. É por isso que é popular para streaming de vídeo online. Embora não seja compatível com dispositivos Apple, os usuários podem baixar o Windows Media Player para iPhone ou Mac.
+
+
+
+4. FLV
+
+FLV é um formato de arquivo usado pelo Adobe Flash Player. É um dos formatos de vídeo mais populares e versáteis, suportados por todas as plataformas e navegadores de vídeo. O formato FLV é uma boa opção para plataformas de streaming de vídeo online como o YouTube. Eles têm um tamanho de arquivo relativamente pequeno, o que facilita o download. A única desvantagem é que não é compatível com muitos dispositivos móveis, como iPhones.
+
+
+
+5. AVI
+
+O formato de arquivo AVI foi introduzido em 1992 pela Microsoft e ainda é amplamente utilizado hoje. O formato de vídeo AVI usa menos compactação do que outros formatos de vídeo, como MPEG ou MOV. Isso resulta em tamanhos de arquivo muito grandes, aproximadamente 2-3 GB por minuto de vídeo. Pode ser um problema para usuários com espaço de armazenamento limitado. Você também pode criar arquivos de vídeo AVI sem qualquer compactação. Isso torna os arquivos sem perdas. Um arquivo sem perdas manterá sua qualidade ao longo do tempo, independentemente de quantas vezes você abrir ou salvar o arquivo. Além disso, isso eliminou o uso de codecs em players de vídeo.
+
+
+
+6. AVCHD (codificação avançada de vídeo de alta definição)
+
+AVCHD é um formato usado para reprodução de vídeo em HD e gravação digital. Este formato de vídeo foi projetado pela Panasonic e Sony para gravação profissional de vídeo de alta definição. O AVCHD também permite armazenar horas de vídeo de alta qualidade usando apenas uma pequena quantidade de dados, aproveitando a tecnologia de compressão de vídeo H.264 / MPEG-4. Além disso, a versão mais recente do formato AVCHD 2.0 suporta vídeo tridimensional.
+
+
+
+7. WebM
+
+Introduzido pela primeira vez pelo Google em 2010, o WebM é um formato de vídeo de código aberto desenvolvido com o estado atual e futuro da Internet em mente. O WebM é destinado ao uso com HTML5. Os codecs de vídeo do WebM requerem muito pouca energia do computador para compactar e descompactar os arquivos. O objetivo desse design é permitir o streaming de vídeo on-line em praticamente qualquer dispositivo, como tablets, desktop, smartphones ou dispositivos como Smart TV.
+
+
+
+8. MKV
+
+O formato de arquivo MKV incorpora áudio, vídeo e legendas em um único arquivo. O formato MKV foi desenvolvido para ser preparado para o futuro, o que significa que os arquivos de vídeo sempre permanecerão atualizados. Os contêineres MKV suportam quase todos os formatos de vídeo e áudio, tornando o formato altamente adaptável e fácil de usar.
