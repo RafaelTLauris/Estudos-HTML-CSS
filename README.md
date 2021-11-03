@@ -44,6 +44,9 @@ Este repositório público contém o material básico e informações com o prop
 * Formatos de Vídeos.
 * Vídeos em hospedagem.
 
+## Parte VIII
+*Primeiro contato com CSS.
+
 
 
 
