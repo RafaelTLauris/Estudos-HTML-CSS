@@ -45,7 +45,10 @@ Este repositório público contém o material básico e informações com o prop
 * Vídeos em hospedagem.
 
 ## Parte VIII
-*Primeiro contato com CSS.
+* Primeiro contato com CSS.
+* Estilos CSS inline.
+* Estilos CSS internos.
+* Estilos CSS externos.
 
 
 
