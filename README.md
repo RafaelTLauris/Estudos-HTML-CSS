@@ -50,6 +50,10 @@ Este repositório público contém o material básico e informações com o prop
 * Estilos CSS Internos.
 * Estilos CSS Externos.
 
+## Parte IX
+* Representando Cores.
+* Harmonia de Cores.
+
 
 
 
