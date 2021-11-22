@@ -13,6 +13,7 @@ main{
     background-color: white;
     width: 600px;
     padding: 10px;
+    /*margin auto centraliza independente da tela */
     margin: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #b35947;

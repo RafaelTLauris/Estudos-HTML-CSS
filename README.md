@@ -54,6 +54,7 @@ Este repositório público contém o material básico e informações com o prop
 * Representando Cores.
 * Harmonia de Cores.
 * Degradê
+* Tipografia
 
 
 
