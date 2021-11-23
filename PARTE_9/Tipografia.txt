@@ -2,3 +2,136 @@ familia tipografica
 
 categorias de fonte
 
+___O que é Tipografia?___
+
+
+Tipografia, na nomenclatura correta, é a impressão dos tipos (como são conhecidas as fontes). Porém, como a maior parte da escrita hoje é feita digitalmente, esse significado caiu em desuso e passou a abranger todo o estudo, criação e aplicação dos caracteres, estilos, formatos e arranjos visuais das palavras.
+
+Por serem a base da comunicação escrita, os tipos precisam ser muito bem trabalhados para serem adequados à mensagem que você deseja passar, o modo como você deseja passar essa mensagem, à sua disposição com os demais elementos gráficos e, claro, à sua boa legibilidade.
+
+
+
+___História da Tipografia___
+
+
+O processo de impressão tipográfico tem sua origem com a criação dos tipos móveis, realizada pelo alemão Gutenberg, no início do século XV.
+
+Com a invenção, a imprensa foi rapidamente difundida na Europa, e chegou na América Latina pelo México, em 1539.
+
+No Brasil, entretanto, essa indústria chegou tarde. Isso porque a corte portuguesa não permitia a entrada de tipografias por aqui.
+
+Somente em 1808 que o país começou a contar com esse tipo de impressão. Até então, eram utilizadas prensas, em que utilizava-se uma matriz e, com ela, imprimia-se cada folha individualmente.
+
+Até 1822, a Imprensa Régia, com suas prensas de mesa, detinham o monopólio de impressões brasileiras. Com a independência do Brasil, iniciou-se o processo de evolução das prensas e métodos de impressão, com diversos novos modelos.
+
+Até 1970, em que o sistema offset roubou a cena por ser mais adequado às grandes tiragens da indústria gráficas.
+
+Com isso, método de impressão tipográfico perdeu espaço, mas não foi extinto. Isso porque ele tem características peculiares, com resultados que outros processos não são capazes de alcançar.
+
+
+
+___Alguns Conceitos Básicos___
+
+
+Vamos entender alguns conceitos básicos sobre tipografia:
+
+Classificação de fontes
+
+Existem 4 classificações primárias de estilo, nos quais a grande parte das fontes existentes se encaixam:  (sem serifa), Serif (com serifa), Script (simula a escrita à mão) e Dingbat (composta por símbolos diversos no lugar das letras do alfabeto).
+
+As fontes com serifa são as mais adequadas para livros e grandes volumes de texto impresso, já que auxiliam a leitura com maior continuidade e sem tanto cansaço visual.
+
+As fontes sem serifa são mais utilizadas em títulos, chamadas e nos textos digitais (neste caso, as serifas agem mais como um empecilho na visualização das letras nas telas).
+
+Cada estilo comporta inúmeras famílias de fontes diferentes. Hoje em dia, com a tecnologia digital, é praticamente impossível contar o número de tipos, que cresce exponencialmente.
+
+Cada família, por sua vez, pode abrigar algumas ou todas as variações: Thin, Light, Regular, Medium ou Semi Bold, Bold e Black ou Extra Bold (todas com a variação em Itálico também).
+
+Algumas famílias também possuem variações de largura para seus caracteres: Condensado, Regular ou Estendido. Mas atenção! Tente evitar de alongar ou contrair a fonte manualmente em softwares de edição, já que pode deformar o tipo completamente. Use somente as variações que já vêm por padrão.
+
+
+
+___Medidas tipográficas___
+
+
+Existem alguns conceitos que acompanham as fontes na tipografia. Os caracteres possuem linhas de referência que delimitam o espaço que eles podem alcançar. Cada família de tipo tem as suas. Essas linhas são conhecidas como: ascendente, linha de caixa alta, linha de base e descendente.
+
+- Linha de caixa alta é a altura correspondente às letras em caixa alta (A, B, C etc).
+
+- Ascendente é a linha que acompanha a altura dos caracteres b, d, f, h, k, l e t. E é a altura máxima do corpo da fonte.
+
+- Linha de base é a linha na qual a maioria dos tipos (com exceção das partes descendentes) tem como base.
+
+- Descendente é a linha que acompanha quão abaixo da linha de centro as letras g, j, p e q vão.
+
+E não tem regras apenas para a altura do caractere não. Existem medidas conhecidas como leading, tracking e kerning.
+
+Leading é a distância entre linhas;
+
+Tracking, por sua vez, é a distância entre palavras;
+
+Kerning é a distância entre caracteres.
+
+
+
+___Tipos de Fontes Comuns___
+
+
+
+- Serif
+
+A fonte serifada é aquela que tem pequenos traços e prolongamentos nas extremidades da fonte. É o caso da Times New Roman.
+
+As fontes serifadas são muito utilizadas para longos textos, como jornais e revistas. Isso porque ela é mais confortável aos olhos para leituras demoradas.
+
+Existe mais de um tipo de serifa, que são classificadas em 4 grupos: estilo antigo, serifa de transição, moderno e laje.
+
+As fontes serifadas e as sem serifas são os dois principais tipos de classificação tipográfica.
+
+
+- Sans Serif
+
+A fonte sem serifa é aquela retinha, que não tem os prolongamentos característicos da fonte serifada.
+
+O exemplo mais comum é a Arial.
+
+Apesar disso, a ABNT não se opõe ao uso da fonte Arial para trabalhos acadêmicos, apesar de ser mais comum o uso da Times New Roman, pelo conforto de leitura já mencionado.
+
+O que trabalhos acadêmicos têm a ver com design gráfico?
+
+Talvez pouco, mas achei um bom exemplo para dizer que você não precisa se apegar a regras: uma combinação inteligente de tipografia pode enriquecer e muito o seu material.
+
+
+- Cursiva
+
+A tipografia cursiva, também conhecida como Script ou manuscrita, é aquela que imita a letra manual.
+
+Uma muito conhecida é a Monotype Corsiva. Isso pois ela é um dos padrões de fontes oferecidos em softwares muito utilizados, como Microsoft Word.
+
+Mas existem diversas fontes manuscritas, uma mais linda do que a outra!
+
+Você pode utilizar uma tipografia como essa para convites, por exemplo, pois elas costumam ser mais elegantes.
+
+Dependendo o material que você pretende criar, uma boa ideia pode ser combinar uma fonte cursiva com uma sem serifa, por exemplo, criando um contraste.
+
+
+- Display
+
+As fontes display são aquelas mais “artísticas”, que não se enquadram nas classificações anteriores.
+
+São fontes comemorativas, mais enfeitadas, que podem trazer no alfabeto símbolos e figuras, como animais e objetos, ou remetem à ideia de festa, quadrinhos, tecnologia, etc.
+
+Nem preciso dizer que é preciso cuidado na hora de utilizar uma fonte display, não é?
+
+Nem pense em escrever um artigo com esta fonte, pois a leitura será, sem dúvida, prejudicada.
+
+No entanto, ela pode complementar ou destacar seu material, se bem utilizada (e bem escolhida!).
+
+
+
+
+___REFERÊNCIAS___
+
+Neilpatel: https://neilpatel.com/br/blog/tipografia/
+
+Rockcontent: https://rockcontent.com/br/blog/tipografia/
