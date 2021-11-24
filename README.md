@@ -53,8 +53,9 @@ Este repositório público contém o material básico e informações com o prop
 ## Parte IX
 * Representando Cores.
 * Harmonia de Cores.
-* Degradê
-* Tipografia
+* Degradê.
+* Tipografia.
+* Google Fonts.
 
 
 
