@@ -55,7 +55,7 @@ Este repositório público contém o material básico e informações com o prop
 * Harmonia de Cores.
 * Degradê.
 * Tipografia.
-* Google Fonts.
+* Google Fonts & Fontes Externas.
 
 
 
