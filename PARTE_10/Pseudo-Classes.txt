@@ -1,0 +1,85 @@
+
+
+___Pseudo-classes___
+
+
+Uma pseudo-classe CSS é uma palavra-chave adicionada a seletores que especifica um estado especial do elemento selecionado. Por exemplo, :hover pode ser usado para alterar a cor de um botão quando o usuário passar o cursor sobre ele.
+
+------------------------------------------------------------------------------------
+
+/*Qualquer botão sobre o qual o ponteiro do usuário esteja passando sobre*/
+button:hover {
+  color: blue;
+}
+
+------------------------------------------------------------------------------------
+
+
+Pseudo-classes permitem que você aplique um estilo a um elemento não apenas em relação ao conteúdo da árvore do documento, mas também em relação a fatores externos como o histórico de navegação (:visited, por exemplo), o status do seu conteúdo (como :checked em certos elementos de um formulário), ou a posição do mouse (como :hover, que permite saber se o mouse está sobre um elemento ou não).
+
+Observação: Diferentemente das pseudo-classes, pseudo-elementos podem ser usados para estilizar uma parte específica de um elemento.
+
+
+
+___Sintaxe___
+
+------------------------------------------------------------------------------------
+
+seletor:pseudo-classe {
+  propriedade: valor;
+}
+
+------------------------------------------------------------------------------------
+
+
+Assim como nas classes regulares, você pode encadear juntas quantas pseudo-classes você desejar em um seletor.
+
+
+___Índice de pseudo-classes padrão___
+
+
+:active
+:checked
+:default (en-US)
+:dir() (en-US)
+:disabled
+:empty
+:enabled
+:first (en-US)
+:first-child
+:first-of-type
+:fullscreen
+:focus
+:hover
+:indeterminate (en-US)
+:in-range (en-US)
+:invalid
+:lang() (en-US)
+:last-child
+:last-of-type
+:left (en-US)
+:link
+:not()
+:nth-child()
+:nth-last-child()
+:nth-last-of-type() (en-US)
+:nth-of-type()
+:only-child
+:only-of-type
+:optional
+:out-of-range
+:read-only (en-US)
+:read-write
+:required
+:right (en-US)
+:root
+:scope (en-US)
+:target
+:valid
+:visited
+
+
+
+___REFERÊNCIAS___
+
+MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes

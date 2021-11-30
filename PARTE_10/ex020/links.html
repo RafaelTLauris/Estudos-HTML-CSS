@@ -10,6 +10,8 @@
 
 /*
 
+        SELETORES PERSONALIZADOS
+
             # = id
             . = class
             : = pseudo-class
@@ -26,6 +28,8 @@
             text-decoration: none;
             font-weight: bold;
         }
+
+        /* sites visitados */
         a:visited{
             color: darkred;
         }
@@ -33,9 +37,20 @@
             color: black;
             text-decoration: underline;
         }
+
+        /* Cor dele ativo, quando clicado */
         a:active{
             color: yellow;
         }
+
+
+        a::before{
+            content: '[link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgray;
+        }
+
         a::after{
             content: '[link]';
             text-decoration: none;
