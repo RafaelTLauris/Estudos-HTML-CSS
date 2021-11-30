@@ -57,6 +57,8 @@ Este repositório público contém o material básico e informações com o prop
 * Tipografia.
 * Google Fonts & Fontes Externas.
 
+## Parte X
+* Usando ID & CLASS em CSS.
 
 
 
