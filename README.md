@@ -59,6 +59,8 @@ Este repositório público contém o material básico e informações com o prop
 
 ## Parte X
 * Usando ID & CLASS em CSS.
+* Pseudo-Classes em CSS.
+* Pseudo-Elementos em CSS.
 
 
 
