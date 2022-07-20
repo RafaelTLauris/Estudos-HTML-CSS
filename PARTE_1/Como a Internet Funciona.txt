@@ -88,7 +88,7 @@ Agora sim, vamos entender qual o caminho que a Internet faz até chegar na sua c
 o Backbone, o provedor de acesso, o provedor de serviço e o usuário final.
 
 
-**Backbone
+** Backbone
 
 Primeiramente vamos conhecer o ponto inicial de referência da Internet, o setor que interliga todos os pontos da rede: o backbone.
 
