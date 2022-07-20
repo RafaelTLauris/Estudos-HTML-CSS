@@ -11,7 +11,7 @@ Este repositório público contém o material básico e informações com o prop
 
 ## Parte II
 * Detalhes sobre Front-end, Back-end e Full Stack.
-* Tags Basicas.
+* Tags Básicas.
 * Primeiros Códigos com HTML.
 * Parágrafos e quebras.
 * Hierarquia de Títulos.
