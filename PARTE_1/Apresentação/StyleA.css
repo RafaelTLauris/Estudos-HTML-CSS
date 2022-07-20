@@ -15,14 +15,30 @@ body{
 .como-a-internet-funciona{
     margin: 2cm;
 }
+.dominio-hospedagem{
+    margin: 2cm;
+}
+.historia-html-css{
+    margin: 2cm;
+}
 
 .referencia{
-
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 1cm;
 }
 
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: justify;
+    font-size: 0.5cm;
+}
+
+li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 0.45cm;
+    margin-left: 1cm;
+    padding-bottom: 0.3cm;
+    padding-top: 0.3cm;
 }
 
 footer{

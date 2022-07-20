@@ -82,12 +82,12 @@
                 Já a mais popular é o octeto de bits, o byte (é abreviada sempre com ‘B’ maiúsculo e opto no presente texto por escrever Byte para realçar isso, em determinados momentos), que representaria um caractere (ASCII e mais outros 128 deles…) e é utilizado em qualquer situação para designar a capacidade de armazenamento da memória, seja essa memória a principal ou secundária.
             </li>
             <br>
-            Num passado não muito distante, o JEDEC e o SI brigavam entre si por conta de ambos utilizarem as mesmas ordens de grandeza (o quilo, o mega, o giga, o tera, etc…), só que com significados bem diferentes. Para evitar mais confusões, ambos chegaram a um acordo para diferenciar as ordens de grandeza binárias (JEDEC) das ordens de grandeza decimais (SI):
+            <p>Num passado não muito distante, o JEDEC e o SI brigavam entre si por conta de ambos utilizarem as mesmas ordens de grandeza (o quilo, o mega, o giga, o tera, etc…), só que com significados bem diferentes. Para evitar mais confusões, ambos chegaram a um acordo para diferenciar as ordens de grandeza binárias (JEDEC) das ordens de grandeza decimais (SI):</p>
             <p>Por exemplo, o quilobyte (também conhecido como quibibyte, coisa que nem gosto de pronunciar), quando a ordem de grandeza é binária, ou seja, o termo é equivalente à 1.024 Bytes, é abreviado como KiB. Mas caso essa ordem de grandeza seja decimal, ou seja, ao referirmo-nos a 1.000 Bytes, então abreviaríamos como kB. Resumindo: na abreviatura, um ‘i’ minúsculo é incluído para as ordens de grandeza binária.</p>
             <p>Utilizamos as ordens de grandeza binárias em quase toda referência à memória de nossos Equipamentos de Tecnologia da Informação, seja ela a principal ou secundária. E quanto às ordens de grandeza decimal?</p>
-            Chegamos à parte interessante: geralmente utilizamos as ordens de grandeza decimais quando tratamos de velocidade de transferência de dados, além de utilizarmos o Byte sendo composto por 10 (dez) bits, devido à codificação 8b/10b, onde há os oito bits de dados + dois bits de paridade.
+            <p>Chegamos à parte interessante: geralmente utilizamos as ordens de grandeza decimais quando tratamos de velocidade de transferência de dados, além de utilizarmos o Byte sendo composto por 10 (dez) bits, devido à codificação 8b/10b, onde há os oito bits de dados + dois bits de paridade.</p>
             <p>Então, quando referimo-nos à velocidade de acesso à internet de, por exemplo, 10 Megabits por segundo, essa velocidade seria equivalente à 1 MegaByte por segundo, não 1,25 MB/s como se suporia. A interface USB 2.0 pode chegar aos 480 Mbit/s (60 MB/s, half-duplex) se não fossem os protocolos proprietários enviados para identificar o componente conectado, juntamente com outras interrupções e restrições, ao passo que o USB 3.0 poderia, em teoria, chegar aos 5 Gbit/s.</p>
-            Na prática, o USB 3.0 acaba chegando à um pouco menos de um décimo desse número na grandeza mais comum, “apenas” 480 MB/s. Isso já é dez vezes mais que o padrão anterior e full-duplex. Apenas frisando: o tio Laguna compara os 480 MB/s do USB 3.0 com os 480 Mb/s do USB 2.0. A abreviatura da unidade de medida é case-sensitive.
+            <p>Na prática, o USB 3.0 acaba chegando à um pouco menos de um décimo desse número na grandeza mais comum, “apenas” 480 MB/s. Isso já é dez vezes mais que o padrão anterior e full-duplex. Apenas frisando: o tio Laguna compara os 480 MB/s do USB 3.0 com os 480 Mb/s do USB 2.0. A abreviatura da unidade de medida é case-sensitive.</p>
             <p>Agora tenho outra situação interessante sobre o que é bit e byte: o melhor jogo que já joguei na vida era anunciado como tendo incríveis 256 Megabits e, à época, quando eu era um mero aborrescente, notei que isso não passava de “apenas” 32 MiB. Enquanto isso, o console concorrente, não tão “imune” à pirataria, infelizmente, tinha jogos que ocupavam mais de um CD, embora cada CD proprietário era limitado à 650 ou 700 MiB.</p>
 
             <h3>Múltiplos de Byte</h3>
@@ -142,16 +142,16 @@
 
         <h3>Usuário final</h3>
         <p>Este pode parecer o passo final do caminho percorrido pela Internet, mas na verdade não é. Ao chegar no usuário final o sinal de Internet passa a repetir todo o caminho novamente, porém na forma inversa, já que você, como usuário final, também envia sinais - com as suas requisições - para a Internet.
-        Os dados enviados pelos usuários são transportados pelo provedor de serviço, enviados para o provedor de acesso e chegam novamente ao backbone. A partir do backbone, o processo segue novamente o mesmo caminho inicial até o próximo destino, que pode ser, por exemplo, o arquivo do CD que você está querendo fazer download, lá na Espanha.
+        Os dados enviados pelos usuários são transportados pelo provedor de serviço, enviados para o provedor de acesso e chegam novamente ao backbone. A partir do backbone, o processo segue novamente o mesmo caminho inicial até o próximo destino, que pode ser, por exemplo, o arquivo do CD que você está querendo fazer download, lá na Espanha.</p>
         <p>Ao acessar o site do CD desejado, entretanto, ninguém obviamente sabe o endereço IP completo da máquina que hospeda esses arquivos ou sites. O que conhecemos é o endereço “www”. Estes endereços de sites são baseados na tecnologia DNS, que basicamente cria atalhos entre os endereços “www” à endereços IP. Assim, não é necessário que você navegue decorando endereços do tipo "192.168.200.45" para acessar o seu site preferido. Basta conhecer o endereço “www”.</p>
         <p>Após acessar o site, por DNS, o endereço “www” te jogará para o endereço IP onde ele está hospedado. Feito isso o site receberá o seu sinal pedindo para baixar o arquivo do CD, e este sinal será transportado pelo seu provedor de serviço para o provedor de acesso, que o levará até o backbone. Chegando no backbone contratado, o sinal deve alcançar o servidor espanhol onde estão os arquivos do CD que você quer baixar, então o backbone do seu provedor enviará um sinal para o backbone do provedor do site espanhol do CD, que fará o mesmo caminho. Ao fim, o arquivo finalmente será transferido de lá para o seu computador.</p>
-        Vamos apenas lembrar que nestes processos podem existir outros servidores intermediários com seus respectivos endereços IP, já que um provedor de acesso ou um backbone pode distribuir o sinal por três servidores diferentes, por exemplo.</p>
+        <p>Vamos apenas lembrar que nestes processos podem existir outros servidores intermediários com seus respectivos endereços IP, já que um provedor de acesso ou um backbone pode distribuir o sinal por três servidores diferentes, por exemplo.</p>
 
         <h3>Outros caminhos possíveis</h3>
-        <p>Agora que você já conhece o funcionamento da Internet e qual o caminho que ela faz para chegar à sua casa, há mais um detalhe importante: nem sempre funciona assim. Existem outros serviços baseados na Internet que não seguem exatamente este mesmo caminho, como por exemplo a telefonia VoIP (Voz sobre IP) e o compartilhamento de arquivos P2P (ponto à ponto).
-        Os serviços de VoIP, que possibilitam o tráfego de voz sobre a rede de Internet, permitem que você faça ligações para outros usuários do serviço e também para usuários da telefonia convencional.
+        <p>Agora que você já conhece o funcionamento da Internet e qual o caminho que ela faz para chegar à sua casa, há mais um detalhe importante: nem sempre funciona assim. Existem outros serviços baseados na Internet que não seguem exatamente este mesmo caminho, como por exemplo a telefonia VoIP (Voz sobre IP) e o compartilhamento de arquivos P2P (ponto à ponto).</p>
+        <p>Os serviços de VoIP, que possibilitam o tráfego de voz sobre a rede de Internet, permitem que você faça ligações para outros usuários do serviço e também para usuários da telefonia convencional.</p>
         <p>Em uma ligação entre usuários de VoIP, cada usuário utilizando um computador equipado com software específico ou um aparelho telefônico especial se conecta ao provedor VoIP que intermedia a comunicação. Já em uma ligação entre um usuário de VoIP com um telefone convencional, celular ou fixo, o usuário VoIP se conecta ao provedor VoIP que efetua uma ligação para o telefone convencional desejado.</p>
-        Já no compartilhamento de arquivos P2P, os usuários compartilham arquivos de forma ponto à ponto - ou seja: cada usuário decide compartilhar alguns dos seus arquivos com uma determinada rede P2P (Kazaa, Emule, Ares, BitTorrent, etc). Com isso, estes arquivos ficam disponíveis para todos usuários que utilizam o software pertencente à rede de P2P.</p>
+        <p>Já no compartilhamento de arquivos P2P, os usuários compartilham arquivos de forma ponto à ponto - ou seja: cada usuário decide compartilhar alguns dos seus arquivos com uma determinada rede P2P (Kazaa, Emule, Ares, BitTorrent, etc). Com isso, estes arquivos ficam disponíveis para todos usuários que utilizam o software pertencente à rede de P2P.</p>
 
         <div class="referencia">
             <h4>REFERÊNCIAS</h4>
@@ -159,6 +159,142 @@
             <p>MDN Web Docs: <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work">https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work</a></p>
             <p>Minha Conexão: <a href="https://www.minhaconexao.com.br/blog/entenda-como-funciona-a-internet-que-chega-a-sua-casa/">https://www.minhaconexao.com.br/blog/entenda-como-funciona-a-internet-que-chega-a-sua-casa/</a></p>
         </div>
+
+        <h1>MODEM & ROTEADOR</h1>
+
+        <p>O modem é responsável por decodificar a internet que chega do provedor para a sua casa, enquanto o roteador é responsável por distribuir a internet para dois ou mais dispositivos. Mas, as diferenças não param por aí! Abaixo, você pode conferir o que fazem e quais as principais diferenças entre o modem e o roteador!</p>
+
+        <h3>O que o modem faz</h3>
+        <p>Ao contratar um plano de internet para a sua residência, você precisará de um aparelho que é capaz de permitir que a internet seja acessada. Este aparelho é o modem, que geralmente é fornecido pela operadora, e é ele o responsável por permitir que o sinal enviado por ela chegue até você de forma estável.
+        Indo um pouco mais a fundo, é possível compreender a necessidade do modem. Um dispositivo como PC ou celular só são capazes de processar sinais digitais, ao passo que os sinais enviados de fora geralmente são analógicos, como por exemplo: ADSL (via telefone), rádio (para internet via rádio) e óptico (para fibra ótica).  
+        Portanto, é o modem que vai realizar o papel de transformar o sinal analógico em digital (demodular) e o sinal digital em analógico (modular). Isso acontece porque os dispositivos não só recebem informações da internet, mas também enviam. Pelo fato de estes processos serem conhecidos como “modular” e “demodular”, o nome “modem” veio da junção das duas palavras.</p>
+
+        <h3>O que o roteador faz</h3>
+        <p>Por outro lado, o roteador é o nome dado ao aparelho que é responsável por dividir o já convertido sinal digital da internet para dois ou mais dispositivos. Este processo pode ser feito através do cabo de rede ou do sinal de Wi-Fi.
+        Tecnicamente falando, se você possui apenas um PC que pode ser conectado pelo cabo, não é necessário ter um roteador. Porém, como muitos usuários possuem celular, computador, tablet e outros dispositivos inteligentes com acesso à internet, o roteador acaba se tornando um item necessário.</p>
+
+        <h3>Dispositivos híbridos</h3>
+        <p>No mercado existem inúmeros modelos de modems e roteadores, porém, também é possível encontrar alguns que realizam as duas funções ao mesmo tempo. Ou seja, o aparelho irá decodificar a internet recebida ao mesmo tempo que pode distribuí-la para todos os seus dispositivos.
+        Dispositivos híbridos podem ser muito úteis para aqueles que utilizam a internet em poucos cômodos da residência ou da empresa, mas pode ser que não sejam completos para as duas funções, principalmente a de roteador. Para aqueles que possuem muitos dispositivos e um amplo espaço, talvez seja melhor investir em um roteador mais potente.</p>
+
+        <h3>Algumas boas práticas</h3>
+        <p>Existem casos em que a falta de sinal de internet pode não ser culpa da conexão do modem ou do roteador, mas da sua localização. Por comodidade, os roteadores acabam sendo posicionados perto do modem, mas nem sempre acabam ficando nos melhores lugares do ambiente.
+        Se possível, em casos como esse, tente localizar o melhor lugar da sua casa, para que o sinal possa ser acessado mesmo de pontos remotos. Caso isso não seja possível, é muito provável que você precise instalar um repetidor de sinal.
+        Reinicie o seu modem e roteador com frequência. Assim como todo hardware, mantê-lo constantemente ligado pode fazer com que ele passe por algum tipo de instabilidade e apresente algumas falhas. A reinicialização dos aparelhos pode acabar resolvendo este tipo de problema.</p>
+
+        <div class="referencia">
+            <h4>REFERÊNCIAS</h4>
+            <p>Canaltech: <a href="https://canaltech.com.br/telecom/qual-a-diferenca-entre-modem-e-roteador/">https://canaltech.com.br/telecom/qual-a-diferenca-entre-modem-e-roteador/</a></p>
+        </div>
+
+        <h1>DNS</h1>
+        <h3>O que é DNS?</h3>
+        <p>O Sistema de Nomes de Domínio (DNS) é a lista telefônica da internet. Os seres humanos acessam informações on-line por meio de nomes de domínio, como nytimes.com ou espn.com. Os navegadores da internet interagem por meio de endereços IP (Protocolo de Internet). O DNS converte nomes de domínio em endereços IP para que os navegadores possam carregar os recursos da internet.</p>
+        <p>Cada dispositivo conectado à internet tem um endereço IP único que outras máquinas utilizam para localizar o dispositivo. Os servidores de DNS eliminam a necessidade de que humanos memorizem endereços IP como 192.168.1.1 (no IPv4) ou endereços IP alfanuméricos mais complexos mais recentes, como 2400:cb00:2048:1::c629:d7a2 (no IPv6).</p>
+
+        <h3>Como funciona o DNS?</h3>
+        <p>O processo de resolução do DNS envolve a conversão de um hostname (como www.exemplo.com) em um endereço IP fácil de ser entendido por um computador (como 192.168.1.1). Um endereço IP é fornecido para cada dispositivo na internet, e esse endereço é necessário para que o dispositivo de internet apropriado seja encontrado — como um endereço postal é usado para encontrar uma determinada casa. Quando um usuário deseja carregar uma página da internet, precisa haver uma tradução daquilo que o usuário digita no navegador web (exemplo.com) para o endereço de máquina necessário para localizar a página do site exemplo.com.</p>
+        <p>Para entender o processo por trás da resolução do DNS, é importante saber mais sobre os diferentes componentes de hardware pelos quais uma consulta de DNS precisa passar. Para o navegador web, a pesquisa de DNS ocorre "nos bastidores" e não requer nenhuma interação do computador do usuário além da solicitação inicial.</p>
+
+        <div class="referencia">
+            <h4>REFERÊNCIAS</h4>
+            <p>CloudFlare: <a href="https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/?acl321n-ge-PPCNetworks-MagicTransit&&_bt=533774218552&_bk=&_bm=b&_bn=g&_bg=112038156926&_placement=&_target=&_loc=1001773&_dv=c&awsearchcpc=1&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9awwFIa3D0Ain83Bn3u8H5tWacupKp1DpreOvZx7Uav9gkZkj92Z6ahoCTwYQAvD_BwE&gclsrc=aw.ds">https://www.cloudflare.com</a></p>
+            <p>Canaltech: <a href="https://canaltech.com.br/internet/o-que-e-dns/">https://canaltech.com.br/internet/o-que-e-dns/</a></p>
+        </div>
+
+    </div>
+    <div class="dominio-hospedagem">
+        <h1>DOMÍNIO</h1>
+        <p>Nome de domínio é um nome que serve para localizar e identificar conjuntos de computadores na internet.
+        O nome de domínio foi concebido com o objetivo de facilitar a memorização dos endereços de computadores na Internet. Sem ele, teríamos que memorizar uma sequência grande de números.</p>
+
+        <h1>HOSPEDAGEM</h1>
+        <p>Hospedagem de sites (português brasileiro) ou alojamento de sites (português europeu) é um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos informações, imagens, vídeo, ou qualquer conteúdo acessível por Web. Provedores de Hospedagem de Sites tipicamente são empresas que fornecem um espaço em seus servidores e conexão à internet a estes dados aos seus clientes.</p>
+        <p>Tipicamente a hospedagem de sites, hospeda arquivos 24 horas por dia, em um endereço IP estático, por sua vez, utilizamos um domínio para encontrar com facilidade este site, é muito comum confundir hospedagem de sites com registro de domínio, entretanto, apesar de ambos trabalharem em conjunto, são serviços diferentes.</p>
+
+        <h1>URL</h1>
+        <p>O Uniform Resource Locator (URL), é um termo técnico (e anglicismo de tecnologia da informação) que foi traduzido para a língua portuguesa como "localizador uniforme de recursos". Um URL se refere ao endereço de rede no qual se encontra algum recurso informático, como por exemplo um arquivo de computador ou um dispositivo periférico (impressora, equipamento multifuncional, unidade de rede etc.). Essa rede pode ser a Internet, uma rede corporativa (como uma intranet) etc.</p>
+        <p>Nas redes TCP/IP, um URL completo possui a seguinte estrutura:</p>
+        <p style="font-style: italic">[ esquema ou protocolo://domínio:porta/caminho/recurso?query_string#fragmento ]</p>
+
+        <li>O esquema é o protocolo. Poderá ser HTTP, HTTPS, FTP etc.</li>
+        <li>O domínio é o endereço da máquina: designa o servidor que disponibiliza o documento ou recurso solicitado.</li>
+        <li>A porta é o ponto lógico no qual se pode executar a conexão com o servidor. (opcional)</li>
+        <li>O caminho especifica o local (geralmente num sistema de arquivos) onde se encontra o recurso, dentro do servidor.</li>
+        <li>A query string é um conjunto de um ou mais pares "pergunta-resposta" ou "parâmetro-argumento" (como por exemplo nome=fulano, em que nome pode ser, por exemplo, uma variável, e fulano é o valor (argumento) atribuído a nome). É uma string enviada ao servidor para que seja possível filtrar ou mesmo criar o recurso. (opcional)</li>
+        <li>O fragmento é uma parte ou posição específica dentro do recurso. (opcional)</li>
+        <li>O esquema informa ao computador como conectar-se (que linguagem o computador deverá usar para as comunicações), o domínio especifica onde conectar-se (a localização do outro computador)</li>
+        
+        <p>e os demais elementos do URL especificam o que está sendo solicitado. Exemplo: <a href="http://www.w3.org/Addressing/URL/uri-spec.html">http://www.w3.org/Addressing/URL/uri-spec.html</a></p>
+
+        <p>No exemplo acima, o protocolo é o HTTP, o servidor é designado por www.w3.org e o recurso (neste caso, o arquivo uri-spec.html) encontra-se em Addressing/URL/. A porta, omitida, recai sobre o padrão do protocolo (no caso, a porta 80) e não há query string ou identificador de fragmento.</p>
+
+        <div class="referencia">
+            <h4>REFERÊNCIAS</h4>
+            <p>Curso em Vídeo: <a href="https://youtu.be/RFHSt1PCy0k?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n">https://youtu.be/RFHSt1PCy0k?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n</a></p>
+        </div>
+
+    </div>
+    <div class="historia-html-css">
+        <h1>HTML</h1>
+        <p>O HTML é uma linguagem de marcação utilizada para desenvolvimento de sites. Esta linguagem surgiu junto com o HTTP, ambos possibilitaram a internet ser popularizada.</p>
+
+        <h2>História</h2>
+        <p>O HTML foi criado em 1991, por Tim Berners-Lee, no CERN (European Council for Nuclear Research) na suíça. Inicialmente o HTML foi projetado para interligar instituições de pesquisa próximas, e compartilhar documentos com facilidade. Em 1992, foi liberada a biblioteca de desenvolvimento WWW ( World Wide Web), uma rede de alcance mundial, que junto com o HTML proporcionou o uso em escala mundial da WEB.</p>
+
+        <h2>Como funciona</h2>
+        <p>O HTML é uma linguagem de marcação. Estas linguagens são constituídas de códigos que delimitam conteúdos específicos, segundo uma sintaxe própria. O HTML tem códigos para criar paginas na web. Estes códigos que definem o tipo de letra, qual o tamanho, cor, espaçamento, e vários outros aspectos do site. No início era muito complicado aprender HTML, pois eram muitos comandos para fazer algo simples. A cada nova versão, o HTML fica mais fácil de utilizar, e adquire mais funções. Atualmente qualquer pessoa pode acessar a internet a aprender a construir um site básico em questão de horas, seguindo os passos de tutoriais e aprendendo as funções de cada código.</p>
+
+        <p>O HTML foi a primeira linguagem de nível mundial, porem não é a única. Existem muitas outras linguagens destinadas á criação de paginas da web, porém o HTML ainda prevalece. Atualmente já é possível integrar varias linguagens na mesma pagina da Web, sendo possível usar duas ou mais linguagens no mesmo site.
+        Para criar e editar códigos em HTML é necessário qualquer editor de texto comum, como bloco de notas. Para testar os códigos, basta salvar o arquivo em formato .HTML e executar.
+        Para o teste é necessário ter um navegador configurado como padrão. Não é necessária internet, pois o arquivo com os códigos esta na maquina onde esta sendo executado.</p>
+        
+        <p>A maioria dos códigos em HTML precisam ter um código de inicialização e um de finalização - são as chamadas Tag's (tag de abertura e tag de fechamento). Por exemplo, para definir o titulo da pagina, é necessário escrever:</p>
+        <!--<code>
+            <title>Título da minha Página</title>
+
+            O "<code></title></code>" serve para “avisar” que ali acaba o titulo, caso não seja posto, todos os códigos definidos depois serão considerados parte do titulo.
+
+            Um código HTML para uma pagina onde apareça “infoescola” escrito em vermelho, em um fundo preto:
+
+            <HTML>
+                <head>
+                    <Title>Título</title>
+                </head>
+                <body>
+                    Infoescola
+                </body>
+            </HTML>
+        </code> -->
+
+        <p>Basta copiar o código para um editor de texto, salvar em .HTML e abrir no navegador.</p>
+
+        <div class="referencia">
+            <h4>REFERÊNCIAS</h4>
+            <p>InfoEscola: <a href="https://www.infoescola.com/informatica/html/">https://www.infoescola.com/informatica/html/</a></p>
+        </div>
+
+        <h1>CSS</h1>
+        <p>O Cascading Style Sheets (CSS) foi proposto pela primeira vez em Outubro de 1994, por Hakon Lie, que queria facilitar a programação de sites, que na época era muito mais complexa. As pessoas tinham que utilizar mais códigos para chegar a um resultado simples, como criar uma tabela.
+        Em 1995 o CSS1 foi desenvolvido pela W3C, um grupo de empresas do ramo da informática. A linguagem de estilos ganhou muito destaque entre 1997 e 1999, neste período ficou conhecido por grande parte dos programadores.</p>
+        <p>No inicio, o HTML era a única linguagem utilizada para criar sites. Quando começou a ganhar popularidade, algumas tags (comandos) foram criadas pelos navegadores para facilitar o uso da linguagem; Para facilitar ainda mais a criação destes layouts, a W3C (World Wide Web Consortium) criou o CSS, colocando a disposição dos Webdesigners.</p> 
+        <p>O CSS é uma linguagem que determina a aparência (layout) de paginas para a Web. Este programa permite ao usuário criar paginas da Web com códigos mais fáceis de elaborar que os códigos HTML. Estes códigos permitem fazer as aplicações com facilidade.</p>
+        <p>Este programa é utilizado pelos programadores em todo o mundo. O CSS controla as opções de margem, linhas, cores, alturas, larguras, imagens e posicionamento, sem necessidade de programar em HTML.  O CSS tem também alguns códigos prontos, permitindo aos usuários pouparem tempo criando códigos muito comuns.</p>
+        <p>Alguns benefícios do CSS:</p>
+
+        <li>A partir de um só documento do CSS, controlam-se vários documentos .html</li>
+        <li>Facilidade de criação dos layouts, que não precisam de códigos muito complicados</li>
+        <li>Linguagem de rápido aprendizado</li>
+
+        <p>O CSS é mais um dos programas para facilitar a vida de quem trabalha na área de informática. Este programa, embora tenha algumas falhas - na realidade as falhas são dos navegadores que não implementam o CSS corretamente, como algumas versões do Internet Explorer -, ajuda muito na hora de criar sites e paginas da WEB.</p>
+
+        <div class="referencia">
+            <h4>REFERÊNCIAS</h4>
+            <p>InfoEscola: <a href="https://www.infoescola.com/informatica/cascading-style-sheets-css/">https://www.infoescola.com/informatica/cascading-style-sheets-css/</a></p>
+            <p>Tableless: <a href="https://tableless.com.br/uma-breve-historia-do-css/">https://tableless.com.br/uma-breve-historia-do-css/</a></p>
+            <p>Webnatal: <a href="http://webnatal.wordpress.com/2007/06/10/o-futuro-do-csscss3-e-um-pouco-da-sua-historia/">http://webnatal.wordpress.com/2007/06/10/o-futuro-do-csscss3-e-um-pouco-da-sua-historia/</a></p>
+        </div>
+
     </div>
 
     <footer>
