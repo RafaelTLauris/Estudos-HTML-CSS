@@ -2,7 +2,18 @@
 
 header{
     background-color: rgb(253, 203, 127);
-    height: 2cm;
+    text-align: center;
+}
+
+nav{
+    text-align: left;
+}
+
+nav > a{
+    padding: 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    transition-duration: 0.3s;
 }
 
 body{
@@ -44,4 +55,8 @@ li{
 footer{
     background-color: rgb(253, 203, 127);
     height: 3cm;
+}
+
+footer > p{
+    text-align: center;
 }
