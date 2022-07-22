@@ -53,22 +53,15 @@ main > article{
     padding-bottom: 50px;
 }
 
-.historia-da-internet{
-    margin: 2cm;
-}
-.como-a-internet-funciona{
-    margin: 2cm;
-}
-.dominio-hospedagem{
-    margin: 2cm;
-}
-.historia-html-css{
-    margin: 2cm;
+article{
+        margin: 2cm;
 }
 
 .referencia{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding-top: 1cm;
+    margin-top: -30px;
+    margin-bottom: 70px;
 }
 
 p{
