@@ -54,7 +54,7 @@ main > article{
 }
 
 article{
-        margin: 2cm;
+    margin: 2cm;
 }
 
 .referencia{
@@ -62,6 +62,30 @@ article{
     padding-top: 1cm;
     margin-top: -30px;
     margin-bottom: 70px;
+}
+.referencia > h4{
+    font-size: 22px;
+    background-image: linear-gradient(to top, rgb(118, 159, 206), transparent);
+}
+
+h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: linear-gradient(to left, rgb(28, 72, 112), transparent);
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 8px;
 }
 
 p{
