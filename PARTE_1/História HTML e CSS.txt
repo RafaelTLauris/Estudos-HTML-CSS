@@ -24,14 +24,14 @@ O </title> serve para “avisar” que ali acaba o titulo, caso não seja posto,
 
 Um código HTML para uma pagina onde apareça “infoescola” escrito em vermelho, em um fundo preto:
 
-<HTML>
+<html>
     <head>
-        <Title>Título</title>
+        <title>Título</title>
     </head>
-    <body>
+    <body bgcolor="black" text="red">
         Infoescola
     </body>
-</HTML>
+</html>
 
 Basta copiar o código para um editor de texto, salvar em .HTML e abrir no navegador.
 

@@ -1,3 +1,13 @@
 {
-    "diffEditor.wordWrap": "on"
+    "diffEditor.wordWrap": "on",
+    "cSpell.words": [
+        "Berners",
+        "bgcolor",
+        "Hakon",
+        "infoescola",
+        "Infoescola",
+        "Tableless",
+        "Webdesigners",
+        "Webnatal"
+    ]
 }
